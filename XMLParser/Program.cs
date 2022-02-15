@@ -14,23 +14,43 @@ namespace XMLParser
             var startupPath = Helper.GetExecutingAssemblyPath();
             var pathForSaving = startupPath.Parent.FullName + "\\Data\\FileFormat.xml";
             
+            XmlDocument xmlDoc = new XmlDocument();
+            xmlDoc.Load(pathForSaving);
+
+            XmlSerializer serializer = new XmlSerializer(typeof(Export));
+            List<Export> data = new List<Export>();
             XmlReader source = XmlReader.Create(pathForSaving);
 
-            try
+            if (xmlDoc.InnerXml.Length == 0)
             {
-                XmlSerializer xs = new XmlSerializer(typeof(Export));
-                var expData = (Export)xs.Deserialize(source);
+                return;
+            }
+            else
+            {
+                try
+                {
+                    while (source.Read())
+                    {
+                        XmlSerializer xs = new XmlSerializer(typeof(SanctionEntity));
+                        //var expData = (Export)xs.Deserialize(source);
 
-                Console.WriteLine("Read Successfull!!!");
-                Console.ReadKey();
+                        if (source.NodeType == XmlNodeType.Element &&
+                            source.Name == "sanctionEntity")
+                        {
+                            var expData = (SanctionEntity)xs.Deserialize(source);
+                        }
+                    }
+
+                    Console.WriteLine("Successfully Done ");
+                    Console.ReadKey();
+                }
+                catch (Exception ex)
+                {
+                    Console.WriteLine("Error occured " + ex.InnerException.Message);
+                    Console.ReadKey();
+                }
+                return;
             }
-            catch (Exception ex)
-            {
-                Console.WriteLine("Error occured " + ex.InnerException.Message);
-                Console.ReadKey();
-            }
-            return;
-           
         }
     }
 }
