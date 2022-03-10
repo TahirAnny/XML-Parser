@@ -1,0 +1,1996 @@
+<?xml version="1.0"?>
+<Designations xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <DateGenerated>08/03/2022</DateGenerated>
+  <Designation>
+    <LastUpdated>12/01/2022</LastUpdated>
+    <DateDesignated>29/06/2012</DateDesignated>
+    <UniqueID>AFG0001</UniqueID>
+    <OFSIGroupID>12703</OFSIGroupID>
+    <UNReferenceNumber>TAe.010</UNReferenceNumber>
+    <Names>
+      <Name>
+        <Name6>HAJI KHAIRULLAH HAJI SATTAR MONEY EXCHANGE</Name6>
+        <NameType>Primary Name</NameType>
+      </Name>
+      <Name>
+        <Name6>Haji Alim Hawala</Name6>
+        <NameType>Alias</NameType>
+      </Name>
+      <Name>
+        <Name6>Haji Hakim Hawala</Name6>
+        <NameType>Alias</NameType>
+      </Name>
+      <Name>
+        <Name6>Haji Khair Ullah Money Service</Name6>
+        <NameType>Alias</NameType>
+      </Name>
+      <Name>
+        <Name6>Haji Khairullah and Abdul Sattar and Company</Name6>
+        <NameType>Alias</NameType>
+      </Name>
+      <Name>
+        <Name6>Haji Khairullah Money Exchange</Name6>
+        <NameType>Alias</NameType>
+      </Name>
+      <Name>
+        <Name6>Haji Khairullah-Haji Sattar Sarafi</Name6>
+        <NameType>Alias</NameType>
+      </Name>
+      <Name>
+        <Name6>Haji Salam Hawala</Name6>
+        <NameType>Alias</NameType>
+      </Name>
+      <Name>
+        <Name6>Sarafi-yi Haji Khairullah Haji Satar Haji Esmatullah</Name6>
+        <NameType>Alias</NameType>
+      </Name>
+    </Names>
+    <NonLatinNames>
+      <NonLatinName>
+        <NameNonLatinScript>حاجی خيرالله و حاجی ستار صرافی</NameNonLatinScript>
+      </NonLatinName>
+    </NonLatinNames>
+    <RegimeName>The Afghanistan (Sanctions) (EU Exit) Regulations 2020</RegimeName>
+    <IndividualEntityShip>Entity</IndividualEntityShip>
+    <DesignationSource>UN</DesignationSource>
+    <SanctionsImposed>Asset freeze</SanctionsImposed>
+    <SanctionsImposedIndicators>
+      <AssetFreeze>true</AssetFreeze>
+      <ArmsEmbargo>false</ArmsEmbargo>
+      <TargetedArmsEmbargo>false</TargetedArmsEmbargo>
+      <CharteringOfShips>false</CharteringOfShips>
+      <ClosureOfRepresentativeOffices>false</ClosureOfRepresentativeOffices>
+      <CrewServicingOfShipsAndAircraft>false</CrewServicingOfShipsAndAircraft>
+      <Deflag>false</Deflag>
+      <PreventionOfBusinessArrangements>false</PreventionOfBusinessArrangements>
+      <ProhibitionOfPortEntry>false</ProhibitionOfPortEntry>
+      <TravelBan>false</TravelBan>
+      <PreventionOfCharteringOfShips>false</PreventionOfCharteringOfShips>
+      <PreventionOfCharteringOfShipsAndAircraft>false</PreventionOfCharteringOfShipsAndAircraft>
+      <TechnicalAssistanceRelatedToAircraft>false</TechnicalAssistanceRelatedToAircraft>
+    </SanctionsImposedIndicators>
+    <OtherInformation>Pakistan National Tax Number: 1774308; Pakistan National Tax Number: 0980338; Pakistan National Tax Number: 3187777; Afghan Money Service Provider License Number: 044. Haji Khairullah Haji Sattar Money Exchange was used by Taliban leadership to transfer money to Taliban commanders to fund fighters and operations in Afghanistan as of 2011. Associated with Abdul Sattar Abdul Manan (TAi.162) and Khairullah Barakzai Khudai Nazar (TAi.163). INTERPOLUN Security Council Special Notice web link: https://www.interpol.int/en/How-we-work/Notices/View-UN-NoticesEntities click here</OtherInformation>
+    <UKStatementofReasons>
+    </UKStatementofReasons>
+    <Addresses>
+      <Address>
+        <AddressLine1>Ansari Market, 2nd Floor</AddressLine1>
+        <AddressLine6>Nimroz Province</AddressLine6>
+        <AddressCountry>Afghanistan</AddressCountry>
+      </Address>
+      <Address>
+        <AddressLine1>Branch Office 10</AddressLine1>
+        <AddressLine2>Suite numbers 196-197, 3rd Floor</AddressLine2>
+        <AddressLine3>Khorasan Market</AddressLine3>
+        <AddressLine5>Herat City</AddressLine5>
+        <AddressLine6>Herat Province</AddressLine6>
+        <AddressCountry>Afghanistan</AddressCountry>
+      </Address>
+      <Address>
+        <AddressLine1>Branch Office 11</AddressLine1>
+        <AddressLine2>Sarafi Market</AddressLine2>
+        <AddressLine5>Zaranj District</AddressLine5>
+        <AddressLine6>Nimroz Province</AddressLine6>
+        <AddressCountry>Afghanistan</AddressCountry>
+      </Address>
+      <Address>
+        <AddressLine1>Branch Office 12</AddressLine1>
+        <AddressLine2>Sarafi Market</AddressLine2>
+        <AddressLine3>Wesh</AddressLine3>
+        <AddressLine5>Spin Boldak District</AddressLine5>
+        <AddressCountry>Afghanistan</AddressCountry>
+      </Address>
+      <Address>
+        <AddressLine1>Branch Office 13</AddressLine1>
+        <AddressLine2>Sarafi Market</AddressLine2>
+        <AddressLine6>Farah</AddressLine6>
+        <AddressCountry>Afghanistan</AddressCountry>
+      </Address>
+      <Address>
+        <AddressLine1>Branch Office 14</AddressLine1>
+        <AddressLine6>Dubai</AddressLine6>
+        <AddressCountry>United Arab Emirates</AddressCountry>
+      </Address>
+      <Address>
+        <AddressLine1>Branch Office 15</AddressLine1>
+        <AddressLine6>Zahedan</AddressLine6>
+        <AddressCountry>Iran</AddressCountry>
+      </Address>
+      <Address>
+        <AddressLine1>Branch Office 16</AddressLine1>
+        <AddressLine6>Zabul</AddressLine6>
+        <AddressCountry>Iran</AddressCountry>
+      </Address>
+      <Address>
+        <AddressLine1>Branch Office 2</AddressLine1>
+        <AddressLine5>Peshawar</AddressLine5>
+        <AddressLine6>Khyber Paktunkhwa Province</AddressLine6>
+        <AddressCountry>Pakistan</AddressCountry>
+      </Address>
+      <Address>
+        <AddressLine1>Branch Office 3</AddressLine1>
+        <AddressLine2>Moishah Chowk Road</AddressLine2>
+        <AddressLine5>Lahore</AddressLine5>
+        <AddressLine6>Punjab Province</AddressLine6>
+        <AddressCountry>Pakistan</AddressCountry>
+      </Address>
+      <Address>
+        <AddressLine1>Branch Office 4</AddressLine1>
+        <AddressLine5>Karachi</AddressLine5>
+        <AddressLine6>Sindh Province</AddressLine6>
+        <AddressCountry>Pakistan</AddressCountry>
+      </Address>
+      <Address>
+        <AddressLine1>Branch Office 5</AddressLine1>
+        <AddressLine2>Larran Road number 2</AddressLine2>
+        <AddressLine3>Chaman</AddressLine3>
+        <AddressLine6>Baluchistan Province</AddressLine6>
+        <AddressCountry>Pakistan</AddressCountry>
+      </Address>
+      <Address>
+        <AddressLine1>Branch Office 6</AddressLine1>
+        <AddressLine2>Shop number 237</AddressLine2>
+        <AddressLine3>Shah Zada Market (also known as Sarai Shahzada)</AddressLine3>
+        <AddressLine4>Puli Khishti area</AddressLine4>
+        <AddressLine5>Police District 1</AddressLine5>
+        <AddressLine6>Kabul</AddressLine6>
+        <AddressCountry>Afghanistan</AddressCountry>
+      </Address>
+      <Address>
+        <AddressLine1>Branch Office 7</AddressLine1>
+        <AddressLine2>Shop numbers 21 and 22, 2nd Floor</AddressLine2>
+        <AddressLine3>Kandahar City Sarafi Market</AddressLine3>
+        <AddressLine5>Kandahar City</AddressLine5>
+        <AddressLine6>Kandahar Province</AddressLine6>
+        <AddressCountry>Afghanistan</AddressCountry>
+      </Address>
+      <Address>
+        <AddressLine1>Branch Office 8</AddressLine1>
+        <AddressLine2>Gereshk City</AddressLine2>
+        <AddressLine3>Nahr-e Saraj District</AddressLine3>
+        <AddressLine6>Helmand Province</AddressLine6>
+        <AddressCountry>Afghanistan</AddressCountry>
+      </Address>
+      <Address>
+        <AddressLine1>Branch Office 9</AddressLine1>
+        <AddressLine2>Lashkar Gah Bazaar</AddressLine2>
+        <AddressLine3>Lashkar Gah</AddressLine3>
+        <AddressLine4>Lashkar Gah District</AddressLine4>
+        <AddressLine6>Helmand Province</AddressLine6>
+        <AddressCountry>Afghanistan</AddressCountry>
+      </Address>
+      <Address>
+        <AddressLine1>Chaman Central Bazaar</AddressLine1>
+        <AddressLine2>Chaman</AddressLine2>
+        <AddressLine3>Shah Zada Market (also known as Sarai Shahzada)</AddressLine3>
+        <AddressLine6>Baluchistan Province</AddressLine6>
+        <AddressCountry>Pakistan</AddressCountry>
+      </Address>
+      <Address>
+        <AddressLine1>Chohar Mir Road</AddressLine1>
+        <AddressLine2>Kandahari Bazaar</AddressLine2>
+        <AddressLine5>Quetta City</AddressLine5>
+        <AddressLine6>Baluchistan Province</AddressLine6>
+        <AddressCountry>Pakistan</AddressCountry>
+      </Address>
+      <Address>
+        <AddressLine1>Haji Ghulam Nabi Market, 2nd Floor</AddressLine1>
+        <AddressLine2>Lashkar Gah District</AddressLine2>
+        <AddressLine6>Helmand Province</AddressLine6>
+        <AddressCountry>Afghanistan</AddressCountry>
+      </Address>
+      <Address>
+        <AddressLine1>Kachara Road</AddressLine1>
+        <AddressLine2>Nasrullah Khan Chowk</AddressLine2>
+        <AddressLine5>Quetta</AddressLine5>
+        <AddressLine6>Baluchistan Province</AddressLine6>
+        <AddressCountry>Pakistan</AddressCountry>
+      </Address>
+      <Address>
+        <AddressLine1>Khorasan Market</AddressLine1>
+        <AddressLine2>Shahre Naw</AddressLine2>
+        <AddressLine3>District 5</AddressLine3>
+        <AddressLine5>Herat City</AddressLine5>
+        <AddressLine6>Herat Province</AddressLine6>
+        <AddressCountry>Afghanistan</AddressCountry>
+      </Address>
+      <Address>
+        <AddressLine1>New Sarafi Market, 2nd Floor</AddressLine1>
+        <AddressLine5>Kandahar City</AddressLine5>
+        <AddressLine6>Kandahar Province</AddressLine6>
+        <AddressCountry>Afghanistan</AddressCountry>
+      </Address>
+      <Address>
+        <AddressLine1>Office number 3</AddressLine1>
+        <AddressLine2>Near Fatima Jinnah Road</AddressLine2>
+        <AddressLine3>Dr. Bano Road</AddressLine3>
+        <AddressLine5>Quetta</AddressLine5>
+        <AddressLine6>Baluchistan Province</AddressLine6>
+        <AddressCountry>Pakistan</AddressCountry>
+      </Address>
+      <Address>
+        <AddressLine1>Room number 1</AddressLine1>
+        <AddressLine2>Abdul Sattar Plaza</AddressLine2>
+        <AddressLine3>Hafiz Saleem Street</AddressLine3>
+        <AddressLine4>Munsafi Road</AddressLine4>
+        <AddressLine5>Quetta</AddressLine5>
+        <AddressLine6>Baluchistan Province</AddressLine6>
+        <AddressCountry>Pakistan</AddressCountry>
+      </Address>
+      <Address>
+        <AddressLine1>Safi Market</AddressLine1>
+        <AddressLine5>Kandahar City</AddressLine5>
+        <AddressLine6>Kandahar Province</AddressLine6>
+        <AddressCountry>Afghanistan</AddressCountry>
+      </Address>
+      <Address>
+        <AddressLine1>Shop number 3</AddressLine1>
+        <AddressLine2>Dr. Bano Road</AddressLine2>
+        <AddressLine5>Quetta</AddressLine5>
+        <AddressLine6>Baluchistan Province</AddressLine6>
+        <AddressCountry>Pakistan</AddressCountry>
+      </Address>
+      <Address>
+        <AddressLine1>Wazir Mohammad Road</AddressLine1>
+        <AddressLine5>Quetta</AddressLine5>
+        <AddressLine6>Baluchistan Province</AddressLine6>
+        <AddressCountry>Pakistan</AddressCountry>
+      </Address>
+    </Addresses>
+    <PhoneNumbers>
+      <PhoneNumber>-103495</PhoneNumber>
+      <PhoneNumber>-101823</PhoneNumber>
+      <PhoneNumber>-222831</PhoneNumber>
+      <PhoneNumber>0202-104748</PhoneNumber>
+      <PhoneNumber>-59763</PhoneNumber>
+    </PhoneNumbers>
+    <EmailAddresses>
+      <EmailAddress>helmand_exchange_msp@yahoo.com</EmailAddress>
+    </EmailAddresses>
+  </Designation>
+  <Designation>
+    <LastUpdated>12/01/2022</LastUpdated>
+    <DateDesignated>29/06/2012</DateDesignated>
+    <UniqueID>AFG0002</UniqueID>
+    <OFSIGroupID>12704</OFSIGroupID>
+    <UNReferenceNumber>TAe.011</UNReferenceNumber>
+    <Names>
+      <Name>
+        <Name6>ROSHAN MONEY EXCHANGE</Name6>
+        <NameType>Primary Name</NameType>
+      </Name>
+      <Name>
+        <Name6>Haji Ahmad Shah Hawala</Name6>
+        <NameType>Alias</NameType>
+      </Name>
+      <Name>
+        <Name6>Maulawi Ahmed Shah Hawala</Name6>
+        <NameType>Alias</NameType>
+      </Name>
+      <Name>
+        <Name6>Mullah Ahmed Shah Hawala</Name6>
+        <NameType>Alias</NameType>
+      </Name>
+      <Name>
+        <Name6>Roshan Sarafi</Name6>
+        <NameType>Alias</NameType>
+      </Name>
+      <Name>
+        <Name6>Roshan Shirkat</Name6>
+        <NameType>Alias</NameType>
+      </Name>
+      <Name>
+        <Name6>Roshan Trading Company</Name6>
+        <NameType>Alias</NameType>
+      </Name>
+      <Name>
+        <Name6>Rushaan Trading Company</Name6>
+        <NameType>Alias</NameType>
+      </Name>
+    </Names>
+    <NonLatinNames>
+      <NonLatinName>
+        <NameNonLatinScript>صرافی روشان</NameNonLatinScript>
+      </NonLatinName>
+    </NonLatinNames>
+    <RegimeName>The Afghanistan (Sanctions) (EU Exit) Regulations 2020</RegimeName>
+    <IndividualEntityShip>Entity</IndividualEntityShip>
+    <DesignationSource>UN</DesignationSource>
+    <SanctionsImposed>Asset freeze</SanctionsImposed>
+    <SanctionsImposedIndicators>
+      <AssetFreeze>true</AssetFreeze>
+      <ArmsEmbargo>false</ArmsEmbargo>
+      <TargetedArmsEmbargo>false</TargetedArmsEmbargo>
+      <CharteringOfShips>false</CharteringOfShips>
+      <ClosureOfRepresentativeOffices>false</ClosureOfRepresentativeOffices>
+      <CrewServicingOfShipsAndAircraft>false</CrewServicingOfShipsAndAircraft>
+      <Deflag>false</Deflag>
+      <PreventionOfBusinessArrangements>false</PreventionOfBusinessArrangements>
+      <ProhibitionOfPortEntry>false</ProhibitionOfPortEntry>
+      <TravelBan>false</TravelBan>
+      <PreventionOfCharteringOfShips>false</PreventionOfCharteringOfShips>
+      <PreventionOfCharteringOfShipsAndAircraft>false</PreventionOfCharteringOfShipsAndAircraft>
+      <TechnicalAssistanceRelatedToAircraft>false</TechnicalAssistanceRelatedToAircraft>
+    </SanctionsImposedIndicators>
+    <OtherInformation>Roshan Money Exchange stores and transfers funds to support Taliban military operations and narcotics trade in Afghanistan. Owned by Ahmed Shah Noorzai Obaidullah (TAi.166). INTERPOL-UN Security Council Special Notice web link: https://www.interpol.int/en/How-wework/Notices/View-UN-Notices-Entities click here</OtherInformation>
+    <UKStatementofReasons>
+    </UKStatementofReasons>
+    <Addresses>
+      <Address>
+        <AddressLine1>Chaghi</AddressLine1>
+        <AddressLine2>Chaghi District</AddressLine2>
+        <AddressLine6>Baluchistan Province</AddressLine6>
+        <AddressCountry>Pakistan</AddressCountry>
+      </Address>
+      <Address>
+        <AddressLine1>Cholmon Road</AddressLine1>
+        <AddressLine5>Quetta</AddressLine5>
+        <AddressLine6>Baluchistan Province</AddressLine6>
+        <AddressCountry>Pakistan</AddressCountry>
+      </Address>
+      <Address>
+        <AddressLine1>Flat number 4</AddressLine1>
+        <AddressLine2>Furqan Centre</AddressLine2>
+        <AddressLine3>Jamaluddin Afghani Road</AddressLine3>
+        <AddressLine5>Quetta</AddressLine5>
+        <AddressLine6>Baluchistan Province</AddressLine6>
+        <AddressCountry>Pakistan</AddressCountry>
+      </Address>
+      <Address>
+        <AddressLine1>Gerd-e-Jangal</AddressLine1>
+        <AddressLine2>Chaghi District</AddressLine2>
+        <AddressLine6>Baluchistan Province</AddressLine6>
+        <AddressCountry>Pakistan</AddressCountry>
+      </Address>
+      <Address>
+        <AddressLine1>Haji Ghulam Nabi Market</AddressLine1>
+        <AddressLine2>Lashkar Gar</AddressLine2>
+        <AddressLine6>Helmand Province</AddressLine6>
+        <AddressCountry>Afghanistan</AddressCountry>
+      </Address>
+      <Address>
+        <AddressLine1>Hazar Joft</AddressLine1>
+        <AddressLine2>Garmser District</AddressLine2>
+        <AddressLine6>Helmand Province</AddressLine6>
+        <AddressCountry>Afghanistan</AddressCountry>
+      </Address>
+      <Address>
+        <AddressLine1>Ismat Bazaar</AddressLine1>
+        <AddressLine2>Marjah District</AddressLine2>
+        <AddressLine6>Helmand Province</AddressLine6>
+        <AddressCountry>Afghanistan</AddressCountry>
+      </Address>
+      <Address>
+        <AddressLine1>Lakri City</AddressLine1>
+        <AddressLine6>Helmand Province</AddressLine6>
+        <AddressCountry>Afghanistan</AddressCountry>
+      </Address>
+      <Address>
+        <AddressLine1>Lashkar Gar Bazaar</AddressLine1>
+        <AddressLine6>Helmand Province</AddressLine6>
+        <AddressCountry>Afghanistan</AddressCountry>
+      </Address>
+      <Address>
+        <AddressLine1>Main Bazaar</AddressLine1>
+        <AddressLine2>Safar</AddressLine2>
+        <AddressLine6>Helmand Province</AddressLine6>
+        <AddressCountry>Afghanistan</AddressCountry>
+      </Address>
+      <Address>
+        <AddressLine1>Money Exchange Market</AddressLine1>
+        <AddressLine2>Lashkar Gar</AddressLine2>
+        <AddressLine6>Helmand Province</AddressLine6>
+        <AddressCountry>Afghanistan</AddressCountry>
+      </Address>
+      <Address>
+        <AddressLine1>Munsafi Road</AddressLine1>
+        <AddressLine5>Quetta</AddressLine5>
+        <AddressLine6>Baluchistan Province</AddressLine6>
+        <AddressCountry>Pakistan</AddressCountry>
+      </Address>
+      <Address>
+        <AddressLine1>Office number 4, 2nd Floor</AddressLine1>
+        <AddressLine2>Muslim Plaza Building</AddressLine2>
+        <AddressLine3>Doctor Banu Road</AddressLine3>
+        <AddressLine5>Quetta</AddressLine5>
+        <AddressLine6>Baluchistan Province</AddressLine6>
+        <AddressCountry>Pakistan</AddressCountry>
+      </Address>
+      <Address>
+        <AddressLine1>Safar Bazaar</AddressLine1>
+        <AddressLine2>Garmser District</AddressLine2>
+        <AddressLine6>Helmand Province</AddressLine6>
+        <AddressCountry>Afghanistan</AddressCountry>
+      </Address>
+      <Address>
+        <AddressLine1>Shop number 1, 1st Floor</AddressLine1>
+        <AddressLine2>Kadari Place</AddressLine2>
+        <AddressLine3>Abdul Samad Khan Street (next to Fatima Jena Road)</AddressLine3>
+        <AddressLine5>Quetta</AddressLine5>
+        <AddressLine6>Baluchistan Province</AddressLine6>
+        <AddressCountry>Pakistan</AddressCountry>
+      </Address>
+      <Address>
+        <AddressLine1>Shop number 1584</AddressLine1>
+        <AddressLine2>Furqan (Fahr Khan) Centre</AddressLine2>
+        <AddressLine3>Chalhor Mal Road</AddressLine3>
+        <AddressLine5>Quetta</AddressLine5>
+        <AddressLine6>Baluchistan Province</AddressLine6>
+        <AddressCountry>Pakistan</AddressCountry>
+      </Address>
+      <Address>
+        <AddressLine1>Shop number 25, 5th Floor</AddressLine1>
+        <AddressLine2>Sarafi Market</AddressLine2>
+        <AddressLine4>Kandahar City</AddressLine4>
+        <AddressLine5>Kandahar District</AddressLine5>
+        <AddressLine6>Kandahar Province</AddressLine6>
+        <AddressCountry>Afghanistan</AddressCountry>
+      </Address>
+      <Address>
+        <AddressLine1>Suite number 8, 4th Floor</AddressLine1>
+        <AddressLine2>Sarafi Market</AddressLine2>
+        <AddressLine3>District number 1</AddressLine3>
+        <AddressLine5>Kandahar City</AddressLine5>
+        <AddressLine6>Kandahar Province</AddressLine6>
+        <AddressCountry>Afghanistan</AddressCountry>
+      </Address>
+      <Address>
+        <AddressLine1>Zaranj</AddressLine1>
+        <AddressLine6>Nimruz Province</AddressLine6>
+        <AddressCountry>Afghanistan</AddressCountry>
+      </Address>
+    </Addresses>
+  </Designation>
+  <Designation>
+    <LastUpdated>12/01/2022</LastUpdated>
+    <DateDesignated>05/11/2012</DateDesignated>
+    <UniqueID>AFG0003</UniqueID>
+    <OFSIGroupID>12811</OFSIGroupID>
+    <UNReferenceNumber>TAe.012</UNReferenceNumber>
+    <Names>
+      <Name>
+        <Name6>HAQQANI NETWORK (HQN)</Name6>
+        <NameType>Primary Name</NameType>
+      </Name>
+    </Names>
+    <NonLatinNames>
+      <NonLatinName>
+        <NameNonLatinScript>شبکه حقانی</NameNonLatinScript>
+      </NonLatinName>
+    </NonLatinNames>
+    <RegimeName>The Afghanistan (Sanctions) (EU Exit) Regulations 2020</RegimeName>
+    <IndividualEntityShip>Entity</IndividualEntityShip>
+    <DesignationSource>UN</DesignationSource>
+    <SanctionsImposed>Asset freeze</SanctionsImposed>
+    <SanctionsImposedIndicators>
+      <AssetFreeze>true</AssetFreeze>
+      <ArmsEmbargo>false</ArmsEmbargo>
+      <TargetedArmsEmbargo>false</TargetedArmsEmbargo>
+      <CharteringOfShips>false</CharteringOfShips>
+      <ClosureOfRepresentativeOffices>false</ClosureOfRepresentativeOffices>
+      <CrewServicingOfShipsAndAircraft>false</CrewServicingOfShipsAndAircraft>
+      <Deflag>false</Deflag>
+      <PreventionOfBusinessArrangements>false</PreventionOfBusinessArrangements>
+      <ProhibitionOfPortEntry>false</ProhibitionOfPortEntry>
+      <TravelBan>false</TravelBan>
+      <PreventionOfCharteringOfShips>false</PreventionOfCharteringOfShips>
+      <PreventionOfCharteringOfShipsAndAircraft>false</PreventionOfCharteringOfShipsAndAircraft>
+      <TechnicalAssistanceRelatedToAircraft>false</TechnicalAssistanceRelatedToAircraft>
+    </SanctionsImposedIndicators>
+    <OtherInformation>Network of Taliban fighters centered around the border between Khost Province, Afghanistan and North Waziristan, Pakistan. Founded by Jalaluddin Haqqani (TAi.040) and currently headed by his son Sirajuddin Jallaloudine Haqqani (TAi.144). Other listed members include Nasiruddin Haqqani (TAi.146), Sangeen Zadran Sher Mohammad (TAi.152), Abdul Aziz Abbasin (TAi.155), Fazl Rabi (TAi.157), Ahmed Jan Wazir (TAi.159), Bakht Gul (TAi.161), Abdul Rauf Zakir (TAi.164). Responsible for suicide attacks and targeted assassination as well as kidnappings in Kabul and other provinces of Afghanistan. Linked to Al-Qaida (QDe.004), Islamic Movement of Uzbekistan (QDe.010), Tehrik-e Taliban Pakistan (QDe.132), Lashkar I Jhangvi (QDe.096), and Jaish-IMohammed (QDe.019). INTERPOL-UN Security Council Special Notice web link: https://www.interpol.int/en/How-we-work/Notices/View-UN-Notices-Entities click here</OtherInformation>
+    <UKStatementofReasons>
+    </UKStatementofReasons>
+  </Designation>
+  <Designation>
+    <LastUpdated>18/12/2021</LastUpdated>
+    <DateDesignated>03/08/2016</DateDesignated>
+    <UniqueID>AQD0151</UniqueID>
+    <OFSIGroupID>13377</OFSIGroupID>
+    <UNReferenceNumber>QDi.397</UNReferenceNumber>
+    <Names>
+      <Name>
+        <Name1>AYRAT</Name1>
+        <Name2>NASIMOVICH</Name2>
+        <Name6>VAKHITOV</Name6>
+        <NameType>Primary name</NameType>
+      </Name>
+      <Name>
+        <Name1>Salman</Name1>
+        <Name6>Bulgarskiy</Name6>
+        <NameType>Alias</NameType>
+        <AliasStrength>Good quality a.k.a</AliasStrength>
+      </Name>
+    </Names>
+    <NonLatinNames>
+      <NonLatinName>
+        <NameNonLatinScript>Айрат Насимович Вахитов</NameNonLatinScript>
+      </NonLatinName>
+      <NonLatinName>
+        <NameNonLatinScript>Салман Булгарский</NameNonLatinScript>
+      </NonLatinName>
+    </NonLatinNames>
+    <RegimeName>Isil (Da'esh) and Al-Qaeda (United Nations Sanctions) (EU Exit) Regulations 2019</RegimeName>
+    <IndividualEntityShip>Individual</IndividualEntityShip>
+    <DesignationSource>UN</DesignationSource>
+    <SanctionsImposed>Asset freeze|Arms embargo|Travel Ban</SanctionsImposed>
+    <SanctionsImposedIndicators>
+      <AssetFreeze>true</AssetFreeze>
+      <ArmsEmbargo>true</ArmsEmbargo>
+      <TargetedArmsEmbargo>false</TargetedArmsEmbargo>
+      <CharteringOfShips>false</CharteringOfShips>
+      <ClosureOfRepresentativeOffices>false</ClosureOfRepresentativeOffices>
+      <CrewServicingOfShipsAndAircraft>false</CrewServicingOfShipsAndAircraft>
+      <Deflag>false</Deflag>
+      <PreventionOfBusinessArrangements>false</PreventionOfBusinessArrangements>
+      <ProhibitionOfPortEntry>false</ProhibitionOfPortEntry>
+      <TravelBan>true</TravelBan>
+      <PreventionOfCharteringOfShips>false</PreventionOfCharteringOfShips>
+      <PreventionOfCharteringOfShipsAndAircraft>false</PreventionOfCharteringOfShipsAndAircraft>
+      <TechnicalAssistanceRelatedToAircraft>false</TechnicalAssistanceRelatedToAircraft>
+    </SanctionsImposedIndicators>
+    <OtherInformation>May use a fake passport of a Syrian or Iraqi citizen. Member of the Al-Nusrah Front for the People of the Levant (ANF) (QDe.137), “Bulgar Group”, leads a group of 100 fighters. Photo available for inclusion in the INTERPOL-UN Security Council Special Notice. INTERPOL-UN Security Council Special Notice web link: https://www.interpol.int/en/notice/search/un/5966088</OtherInformation>
+    <UKStatementofReasons>
+    </UKStatementofReasons>
+    <IndividualDetails>
+      <Individual>
+        <DOBs>
+          <DOB>27/03/1977</DOB>
+        </DOBs>
+        <Nationalities>
+          <Nationality>Russia</Nationality>
+        </Nationalities>
+        <BirthDetails>
+          <Location>
+            <TownOfBirth>Naberezhnye Chelny, Republic of Tatarstan</TownOfBirth>
+            <CountryOfBirth>Russia</CountryOfBirth>
+          </Location>
+        </BirthDetails>
+      </Individual>
+    </IndividualDetails>
+  </Designation>
+  <Designation>
+    <LastUpdated>18/12/2021</LastUpdated>
+    <DateDesignated>18/10/2012</DateDesignated>
+    <UniqueID>AQD0152</UniqueID>
+    <OFSIGroupID>12808</OFSIGroupID>
+    <UNReferenceNumber>QDi.311</UNReferenceNumber>
+    <Names>
+      <Name>
+        <Name1>AYYUB</Name1>
+        <Name6>BASHIR</Name6>
+        <NameType>Primary name</NameType>
+      </Name>
+      <Name>
+        <Name1>Muhammad</Name1>
+        <Name6>Ayub</Name6>
+        <NameType>Alias</NameType>
+        <AliasStrength>Good quality a.k.a</AliasStrength>
+      </Name>
+      <Name>
+        <Name1>Qari</Name1>
+        <Name2>Ayub</Name2>
+        <Name6>Bashar</Name6>
+        <NameType>Alias</NameType>
+        <AliasStrength>Good quality a.k.a</AliasStrength>
+      </Name>
+    </Names>
+    <NonLatinNames>
+      <NonLatinName>
+        <NameNonLatinScript>ایوب بشیر</NameNonLatinScript>
+      </NonLatinName>
+    </NonLatinNames>
+    <Titles>
+      <Title>Qari</Title>
+      <Title>Alhaj</Title>
+    </Titles>
+    <RegimeName>Isil (Da'esh) and Al-Qaeda (United Nations Sanctions) (EU Exit) Regulations 2019</RegimeName>
+    <IndividualEntityShip>Individual</IndividualEntityShip>
+    <DesignationSource>UN</DesignationSource>
+    <SanctionsImposed>Asset freeze|Arms embargo|Travel Ban</SanctionsImposed>
+    <SanctionsImposedIndicators>
+      <AssetFreeze>true</AssetFreeze>
+      <ArmsEmbargo>true</ArmsEmbargo>
+      <TargetedArmsEmbargo>false</TargetedArmsEmbargo>
+      <CharteringOfShips>false</CharteringOfShips>
+      <ClosureOfRepresentativeOffices>false</ClosureOfRepresentativeOffices>
+      <CrewServicingOfShipsAndAircraft>false</CrewServicingOfShipsAndAircraft>
+      <Deflag>false</Deflag>
+      <PreventionOfBusinessArrangements>false</PreventionOfBusinessArrangements>
+      <ProhibitionOfPortEntry>false</ProhibitionOfPortEntry>
+      <TravelBan>true</TravelBan>
+      <PreventionOfCharteringOfShips>false</PreventionOfCharteringOfShips>
+      <PreventionOfCharteringOfShipsAndAircraft>false</PreventionOfCharteringOfShipsAndAircraft>
+      <TechnicalAssistanceRelatedToAircraft>false</TechnicalAssistanceRelatedToAircraft>
+    </SanctionsImposedIndicators>
+    <OtherInformation>Member of leadership council as of early 2010 and head of finance for the Islamic Movement of Uzbekistan (QDe.010). Coordinated financial and logistical support for the Islamic Movement of Uzbekistan in Afghanistan and Pakistan between 2009-2012. Transferred and delivered funds to Fazal Rahim (QDi.303). Reportedly deceased in an airstrike in Chordar, Kunduz Province of Afghanistan in Dec. 2015. Review pursuant to Security Council resolution 2253 (2015) was concluded on 7 Jun. 2018. Review pursuant to Security Council resolution 2253 (2015) was concluded on 21 Feb. 2019. INTERPOL-UN Security Council Special Notice web link: https://www.interpol.int/en/notice/search/un/5741655</OtherInformation>
+    <UKStatementofReasons>
+    </UKStatementofReasons>
+    <Addresses>
+      <Address>
+        <AddressLine1>Mir Ali</AddressLine1>
+        <AddressLine5>North Waziristan Agency</AddressLine5>
+        <AddressLine6>Federal Administered Tribal Areas</AddressLine6>
+        <AddressCountry>Pakistan</AddressCountry>
+      </Address>
+    </Addresses>
+    <IndividualDetails>
+      <Individual>
+        <DOBs>
+          <DOB>dd/mm/1966</DOB>
+          <DOB>dd/mm/1964</DOB>
+          <DOB>dd/mm/1969</DOB>
+          <DOB>dd/mm/1971</DOB>
+        </DOBs>
+        <Nationalities>
+          <Nationality>Uzbekistan</Nationality>
+          <Nationality>Afghanistan</Nationality>
+        </Nationalities>
+      </Individual>
+    </IndividualDetails>
+  </Designation>
+  <Designation>
+    <LastUpdated>18/12/2021</LastUpdated>
+    <DateDesignated>23/09/2014</DateDesignated>
+    <UniqueID>AQD0153</UniqueID>
+    <OFSIGroupID>13127</OFSIGroupID>
+    <UNReferenceNumber>QDi.330</UNReferenceNumber>
+    <Names>
+      <Name>
+        <Name1>AZZAM</Name1>
+        <Name2>ABDULLAH</Name2>
+        <Name3>ZUREIK</Name3>
+        <Name6>AL-MAULID AL-SUBHI</Name6>
+        <NameType>Primary name</NameType>
+      </Name>
+      <Name>
+        <Name1>Azam</Name1>
+        <Name6>A.R. Alsbhua</Name6>
+        <NameType>Alias</NameType>
+        <AliasStrength>Good quality a.k.a</AliasStrength>
+      </Name>
+      <Name>
+        <Name1>Azam</Name1>
+        <Name2>Abdallah</Name2>
+        <Name3>Razeeq</Name3>
+        <Name6>al Mouled Alsbhua</Name6>
+        <NameType>Alias</NameType>
+        <AliasStrength>Good quality a.k.a</AliasStrength>
+      </Name>
+      <Name>
+        <Name1>Abu</Name1>
+        <Name2>Abdalla</Name2>
+        <Name6>al-Harbi</Name6>
+        <NameType>Alias</NameType>
+        <AliasStrength>Good quality a.k.a</AliasStrength>
+      </Name>
+      <Name>
+        <Name1>Abu</Name1>
+        <Name2>Suliman</Name2>
+        <Name6>al-Harbi</Name6>
+        <NameType>Alias</NameType>
+        <AliasStrength>Good quality a.k.a</AliasStrength>
+      </Name>
+      <Name>
+        <Name1>Mansur</Name1>
+        <Name6>al-Harbi</Name6>
+        <NameType>Alias</NameType>
+        <AliasStrength>Good quality a.k.a</AliasStrength>
+      </Name>
+      <Name>
+        <Name1>Abu</Name1>
+        <Name2>Muslem</Name2>
+        <Name6>al-Maky</Name6>
+        <NameType>Alias</NameType>
+        <AliasStrength>Good quality a.k.a</AliasStrength>
+      </Name>
+      <Name>
+        <Name1>Azzam</Name1>
+        <Name6>al-Subhi</Name6>
+        <NameType>Alias</NameType>
+        <AliasStrength>Good quality a.k.a</AliasStrength>
+      </Name>
+    </Names>
+    <RegimeName>Isil (Da'esh) and Al-Qaeda (United Nations Sanctions) (EU Exit) Regulations 2019</RegimeName>
+    <IndividualEntityShip>Individual</IndividualEntityShip>
+    <DesignationSource>UN</DesignationSource>
+    <SanctionsImposed>Asset freeze|Arms embargo|Travel Ban</SanctionsImposed>
+    <SanctionsImposedIndicators>
+      <AssetFreeze>true</AssetFreeze>
+      <ArmsEmbargo>true</ArmsEmbargo>
+      <TargetedArmsEmbargo>false</TargetedArmsEmbargo>
+      <CharteringOfShips>false</CharteringOfShips>
+      <ClosureOfRepresentativeOffices>false</ClosureOfRepresentativeOffices>
+      <CrewServicingOfShipsAndAircraft>false</CrewServicingOfShipsAndAircraft>
+      <Deflag>false</Deflag>
+      <PreventionOfBusinessArrangements>false</PreventionOfBusinessArrangements>
+      <ProhibitionOfPortEntry>false</ProhibitionOfPortEntry>
+      <TravelBan>true</TravelBan>
+      <PreventionOfCharteringOfShips>false</PreventionOfCharteringOfShips>
+      <PreventionOfCharteringOfShipsAndAircraft>false</PreventionOfCharteringOfShipsAndAircraft>
+      <TechnicalAssistanceRelatedToAircraft>false</TechnicalAssistanceRelatedToAircraft>
+    </SanctionsImposedIndicators>
+    <OtherInformation>Has ties to numerous senior Al-Qaida (QDe.004) leaders. Wanted by the Saudi Arabian Government for terrorism. Father's name is Abdullah Razeeq al Mouled al Sbhua. Physical description: eye colour: dark; hair colour: dark; complexion: dark. Speaks Arabic. Photo available for inclusion in the INTERPOL-UN Security Council Special Notice. Review pursuant to Security Council resolution 2368 (2017) was concluded on 4 Dec. 2019. INTERPOL-UN Security Council Special Notice web link: https://www.interpol.int/en/How-we-work/Notices/View-UN-Notices-Individuals.</OtherInformation>
+    <UKStatementofReasons>
+    </UKStatementofReasons>
+    <IndividualDetails>
+      <Individual>
+        <DOBs>
+          <DOB>12/04/1976</DOB>
+        </DOBs>
+        <PassportDetails>
+          <Passport>
+            <PassportNumber>C389664</PassportNumber>
+          </Passport>
+        </PassportDetails>
+        <Nationalities>
+          <Nationality>Saudi Arabia</Nationality>
+        </Nationalities>
+        <NationalIdentifierDetails>
+          <NationalIdentifier>
+            <NationalIdentifierNumber>1024026187</NationalIdentifierNumber>
+          </NationalIdentifier>
+        </NationalIdentifierDetails>
+        <Genders>
+          <Gender>Male</Gender>
+        </Genders>
+        <BirthDetails>
+          <Location>
+            <TownOfBirth>Al Baraka</TownOfBirth>
+            <CountryOfBirth>Saudi Arabia</CountryOfBirth>
+          </Location>
+        </BirthDetails>
+      </Individual>
+    </IndividualDetails>
+  </Designation>
+  <Designation>
+    <LastUpdated>18/12/2021</LastUpdated>
+    <DateDesignated>13/03/2015</DateDesignated>
+    <UniqueID>AQD0154</UniqueID>
+    <OFSIGroupID>13243</OFSIGroupID>
+    <UNReferenceNumber>QDi.349</UNReferenceNumber>
+    <Names>
+      <Name>
+        <Name1>BAMBANG</Name1>
+        <Name6>SUKIRNO</Name6>
+        <NameType>Primary name</NameType>
+      </Name>
+      <Name>
+        <Name1>Abu</Name1>
+        <Name6>Zahra</Name6>
+        <NameType>Alias</NameType>
+        <AliasStrength>Low quality a.k.a</AliasStrength>
+      </Name>
+      <Name>
+        <Name1>Pak</Name1>
+        <Name6>Zahra</Name6>
+        <NameType>Alias</NameType>
+        <AliasStrength>Low quality a.k.a</AliasStrength>
+      </Name>
+    </Names>
+    <RegimeName>Isil (Da'esh) and Al-Qaeda (United Nations Sanctions) (EU Exit) Regulations 2019</RegimeName>
+    <IndividualEntityShip>Individual</IndividualEntityShip>
+    <DesignationSource>UN</DesignationSource>
+    <SanctionsImposed>Asset freeze|Arms embargo|Travel Ban</SanctionsImposed>
+    <SanctionsImposedIndicators>
+      <AssetFreeze>true</AssetFreeze>
+      <ArmsEmbargo>true</ArmsEmbargo>
+      <TargetedArmsEmbargo>false</TargetedArmsEmbargo>
+      <CharteringOfShips>false</CharteringOfShips>
+      <ClosureOfRepresentativeOffices>false</ClosureOfRepresentativeOffices>
+      <CrewServicingOfShipsAndAircraft>false</CrewServicingOfShipsAndAircraft>
+      <Deflag>false</Deflag>
+      <PreventionOfBusinessArrangements>false</PreventionOfBusinessArrangements>
+      <ProhibitionOfPortEntry>false</ProhibitionOfPortEntry>
+      <TravelBan>true</TravelBan>
+      <PreventionOfCharteringOfShips>false</PreventionOfCharteringOfShips>
+      <PreventionOfCharteringOfShipsAndAircraft>false</PreventionOfCharteringOfShipsAndAircraft>
+      <TechnicalAssistanceRelatedToAircraft>false</TechnicalAssistanceRelatedToAircraft>
+    </SanctionsImposedIndicators>
+    <OtherInformation>A senior leader of Jemaah Islamiyah (QDe.092) who has held leadership positions in Hilal Ahmar Society Indonesia (HASI) (QDe.147). INTERPOL-UN Security Council Special Notice web link: https://www.interpol.int/en/notice/search/un/5854969</OtherInformation>
+    <UKStatementofReasons>
+    </UKStatementofReasons>
+    <IndividualDetails>
+      <Individual>
+        <DOBs>
+          <DOB>05/04/1975</DOB>
+        </DOBs>
+        <PassportDetails>
+          <Passport>
+            <PassportNumber>A2062513</PassportNumber>
+          </Passport>
+        </PassportDetails>
+        <Nationalities>
+          <Nationality>Indonesia</Nationality>
+        </Nationalities>
+        <BirthDetails>
+          <Location>
+            <CountryOfBirth>Indonesia</CountryOfBirth>
+          </Location>
+        </BirthDetails>
+      </Individual>
+    </IndividualDetails>
+  </Designation>
+  <Designation>
+    <LastUpdated>18/12/2021</LastUpdated>
+    <DateDesignated>22/02/2017</DateDesignated>
+    <UniqueID>AQD0155</UniqueID>
+    <OFSIGroupID>13446</OFSIGroupID>
+    <UNReferenceNumber>QDi.399</UNReferenceNumber>
+    <Names>
+      <Name>
+        <Name1>BASSAM</Name1>
+        <Name2>AHMAD</Name2>
+        <Name6>AL-HASRI</Name6>
+        <NameType>Primary name</NameType>
+      </Name>
+      <Name>
+        <Name1>Abu</Name1>
+        <Name2>Ahmad</Name2>
+        <Name6>Akhlaq</Name6>
+        <NameType>Alias</NameType>
+        <AliasStrength>Low quality a.k.a</AliasStrength>
+      </Name>
+      <Name>
+        <Name1>Abu</Name1>
+        <Name2>Ahmad</Name2>
+        <Name6>al-Shami</Name6>
+        <NameType>Alias</NameType>
+        <AliasStrength>Low quality a.k.a</AliasStrength>
+      </Name>
+      <Name>
+        <Name1>Bassam</Name1>
+        <Name2>Ahmad</Name2>
+        <Name6>Husari</Name6>
+        <NameType>Alias</NameType>
+        <AliasStrength>Good quality a.k.a</AliasStrength>
+      </Name>
+    </Names>
+    <NonLatinNames>
+      <NonLatinName>
+        <NameNonLatinScript>بسام أحمد الحصري</NameNonLatinScript>
+      </NonLatinName>
+    </NonLatinNames>
+    <RegimeName>Isil (Da'esh) and Al-Qaeda (United Nations Sanctions) (EU Exit) Regulations 2019</RegimeName>
+    <IndividualEntityShip>Individual</IndividualEntityShip>
+    <DesignationSource>UN</DesignationSource>
+    <SanctionsImposed>Asset freeze|Arms embargo|Travel Ban</SanctionsImposed>
+    <SanctionsImposedIndicators>
+      <AssetFreeze>true</AssetFreeze>
+      <ArmsEmbargo>true</ArmsEmbargo>
+      <TargetedArmsEmbargo>false</TargetedArmsEmbargo>
+      <CharteringOfShips>false</CharteringOfShips>
+      <ClosureOfRepresentativeOffices>false</ClosureOfRepresentativeOffices>
+      <CrewServicingOfShipsAndAircraft>false</CrewServicingOfShipsAndAircraft>
+      <Deflag>false</Deflag>
+      <PreventionOfBusinessArrangements>false</PreventionOfBusinessArrangements>
+      <ProhibitionOfPortEntry>false</ProhibitionOfPortEntry>
+      <TravelBan>true</TravelBan>
+      <PreventionOfCharteringOfShips>false</PreventionOfCharteringOfShips>
+      <PreventionOfCharteringOfShipsAndAircraft>false</PreventionOfCharteringOfShipsAndAircraft>
+      <TechnicalAssistanceRelatedToAircraft>false</TechnicalAssistanceRelatedToAircraft>
+    </SanctionsImposedIndicators>
+    <OtherInformation>Leader of Al-Nusrah Front for the People of the Levant (QDe.137) for southern Syrian Arab Republic since July 2016. INTERPOL-UN Security Council Special Notice web link: https://www.interpol.int/en/notice/search/un/6013284. Syrian Arab Republic (Southern. Location as of July 2016)</OtherInformation>
+    <UKStatementofReasons>
+    </UKStatementofReasons>
+    <Addresses>
+      <Address>
+        <AddressCountry>Syria</AddressCountry>
+      </Address>
+    </Addresses>
+    <IndividualDetails>
+      <Individual>
+        <DOBs>
+          <DOB>01/01/1969</DOB>
+          <DOB>dd/mm/1971</DOB>
+        </DOBs>
+        <Nationalities>
+          <Nationality>Syria</Nationality>
+          <Nationality>Palestinian</Nationality>
+        </Nationalities>
+        <BirthDetails>
+          <Location>
+            <TownOfBirth>Qalamun, Damascus Province</TownOfBirth>
+            <CountryOfBirth>Syria</CountryOfBirth>
+          </Location>
+          <Location>
+            <TownOfBirth>Tadamon, Rif Dimashq</TownOfBirth>
+            <CountryOfBirth>Syria</CountryOfBirth>
+          </Location>
+          <Location>
+            <TownOfBirth>Ghutah, Damascus Province</TownOfBirth>
+            <CountryOfBirth>Syria</CountryOfBirth>
+          </Location>
+        </BirthDetails>
+      </Individual>
+    </IndividualDetails>
+  </Designation>
+  <Designation>
+    <LastUpdated>18/12/2021</LastUpdated>
+    <DateDesignated>25/01/2001</DateDesignated>
+    <UniqueID>AQD0156</UniqueID>
+    <OFSIGroupID>7099</OFSIGroupID>
+    <UNReferenceNumber>QDi.009</UNReferenceNumber>
+    <Names>
+      <Name>
+        <Name1>BILAL</Name1>
+        <Name6>BIN MARWAN</Name6>
+        <NameType>Primary name</NameType>
+      </Name>
+    </Names>
+    <NonLatinNames>
+      <NonLatinName>
+        <NameNonLatinScript>بلال بن مروان</NameNonLatinScript>
+      </NonLatinName>
+    </NonLatinNames>
+    <RegimeName>Isil (Da'esh) and Al-Qaeda (United Nations Sanctions) (EU Exit) Regulations 2019</RegimeName>
+    <IndividualEntityShip>Individual</IndividualEntityShip>
+    <DesignationSource>UN</DesignationSource>
+    <SanctionsImposed>Asset freeze|Arms embargo|Travel Ban</SanctionsImposed>
+    <SanctionsImposedIndicators>
+      <AssetFreeze>true</AssetFreeze>
+      <ArmsEmbargo>true</ArmsEmbargo>
+      <TargetedArmsEmbargo>false</TargetedArmsEmbargo>
+      <CharteringOfShips>false</CharteringOfShips>
+      <ClosureOfRepresentativeOffices>false</ClosureOfRepresentativeOffices>
+      <CrewServicingOfShipsAndAircraft>false</CrewServicingOfShipsAndAircraft>
+      <Deflag>false</Deflag>
+      <PreventionOfBusinessArrangements>false</PreventionOfBusinessArrangements>
+      <ProhibitionOfPortEntry>false</ProhibitionOfPortEntry>
+      <TravelBan>true</TravelBan>
+      <PreventionOfCharteringOfShips>false</PreventionOfCharteringOfShips>
+      <PreventionOfCharteringOfShipsAndAircraft>false</PreventionOfCharteringOfShipsAndAircraft>
+      <TechnicalAssistanceRelatedToAircraft>false</TechnicalAssistanceRelatedToAircraft>
+    </SanctionsImposedIndicators>
+    <OtherInformation>Senior lieutenant of UBL. Review pursuant to Security Council resolution 1822 (2008) was concluded on 21 Jun. 2010. Review pursuant to Security Council resolution 2253 (2015) was concluded on 21 Feb. 2019. INTERPOL-UN Security Council Special Notice web link: https://www.interpol.int/en/notice/search/un/1423806</OtherInformation>
+    <UKStatementofReasons>
+    </UKStatementofReasons>
+    <IndividualDetails>
+      <Individual>
+        <DOBs>
+          <DOB>dd/mm/1947</DOB>
+        </DOBs>
+      </Individual>
+    </IndividualDetails>
+  </Designation>
+  <Designation>
+    <LastUpdated>18/12/2021</LastUpdated>
+    <DateDesignated>29/09/2015</DateDesignated>
+    <UniqueID>AQD0157</UniqueID>
+    <OFSIGroupID>13289</OFSIGroupID>
+    <UNReferenceNumber>QDi.375</UNReferenceNumber>
+    <Names>
+      <Name>
+        <Name1>BOUBAKER</Name1>
+        <Name2>BEN HABIB</Name2>
+        <Name6>BEN AL-HAKIM</Name6>
+        <NameType>Primary name</NameType>
+      </Name>
+      <Name>
+        <Name1>Abou</Name1>
+        <Name6>al Moukatel</Name6>
+        <NameType>Alias</NameType>
+        <AliasStrength>Low quality a.k.a</AliasStrength>
+      </Name>
+      <Name>
+        <Name1>Abu-Muqatil</Name1>
+        <Name6>al-Tunisi</Name6>
+        <NameType>Alias</NameType>
+        <AliasStrength>Low quality a.k.a</AliasStrength>
+      </Name>
+      <Name>
+        <Name1>Boubaker</Name1>
+        <Name6>el Hakim</Name6>
+        <NameType>Alias</NameType>
+        <AliasStrength>Good quality a.k.a</AliasStrength>
+      </Name>
+      <Name>
+        <Name1>Boubakeur</Name1>
+        <Name6>El Hakim</Name6>
+        <NameType>Alias</NameType>
+        <AliasStrength>Low quality a.k.a</AliasStrength>
+      </Name>
+      <Name>
+        <Name1>Boubakeur</Name1>
+        <Name6>el-Hakim</Name6>
+        <NameType>Alias</NameType>
+        <AliasStrength>Good quality a.k.a</AliasStrength>
+      </Name>
+      <Name>
+        <Name1>Abou</Name1>
+        <Name6>Mouqatel</Name6>
+        <NameType>Alias</NameType>
+        <AliasStrength>Low quality a.k.a</AliasStrength>
+      </Name>
+    </Names>
+    <RegimeName>Isil (Da'esh) and Al-Qaeda (United Nations Sanctions) (EU Exit) Regulations 2019</RegimeName>
+    <IndividualEntityShip>Individual</IndividualEntityShip>
+    <DesignationSource>UN</DesignationSource>
+    <SanctionsImposed>Asset freeze|Arms embargo|Travel Ban</SanctionsImposed>
+    <SanctionsImposedIndicators>
+      <AssetFreeze>true</AssetFreeze>
+      <ArmsEmbargo>true</ArmsEmbargo>
+      <TargetedArmsEmbargo>false</TargetedArmsEmbargo>
+      <CharteringOfShips>false</CharteringOfShips>
+      <ClosureOfRepresentativeOffices>false</ClosureOfRepresentativeOffices>
+      <CrewServicingOfShipsAndAircraft>false</CrewServicingOfShipsAndAircraft>
+      <Deflag>false</Deflag>
+      <PreventionOfBusinessArrangements>false</PreventionOfBusinessArrangements>
+      <ProhibitionOfPortEntry>false</ProhibitionOfPortEntry>
+      <TravelBan>true</TravelBan>
+      <PreventionOfCharteringOfShips>false</PreventionOfCharteringOfShips>
+      <PreventionOfCharteringOfShipsAndAircraft>false</PreventionOfCharteringOfShipsAndAircraft>
+      <TechnicalAssistanceRelatedToAircraft>false</TechnicalAssistanceRelatedToAircraft>
+    </SanctionsImposedIndicators>
+    <OtherInformation>French-Tunisian foreign terrorist fighter for Islamic State in Iraq and the Levant (ISIL), listed as Al-Qaida in Iraq (QDe.115). INTERPOL-UN Security Council Special Notice web link: https://www.interpol.int/en/notice/search/un/5897328</OtherInformation>
+    <UKStatementofReasons>
+    </UKStatementofReasons>
+    <Addresses>
+      <Address>
+        <AddressCountry>Syria</AddressCountry>
+      </Address>
+    </Addresses>
+    <IndividualDetails>
+      <Individual>
+        <DOBs>
+          <DOB>01/08/1983</DOB>
+        </DOBs>
+        <Nationalities>
+          <Nationality>France</Nationality>
+          <Nationality>Tunisia</Nationality>
+        </Nationalities>
+        <BirthDetails>
+          <Location>
+            <TownOfBirth>Paris</TownOfBirth>
+            <CountryOfBirth>France</CountryOfBirth>
+          </Location>
+        </BirthDetails>
+      </Individual>
+    </IndividualDetails>
+  </Designation>
+  <Designation>
+    <LastUpdated>18/12/2021</LastUpdated>
+    <DateDesignated>11/01/2002</DateDesignated>
+    <UniqueID>AQD0158</UniqueID>
+    <OFSIGroupID>6998</OFSIGroupID>
+    <UNReferenceNumber>QDi.058</UNReferenceNumber>
+    <Names>
+      <Name>
+        <Name1>BOUBEKEUR</Name1>
+        <Name6>BOULGHITI</Name6>
+        <NameType>Primary name</NameType>
+      </Name>
+      <Name>
+        <Name1>Abou</Name1>
+        <Name2>Bakr</Name2>
+        <Name6>Al Djazairi</Name6>
+        <NameType>Alias</NameType>
+        <AliasStrength>Low quality a.k.a</AliasStrength>
+      </Name>
+      <Name>
+        <Name1>Yasir</Name1>
+        <Name6>Al-Jazari</Name6>
+        <NameType>Alias</NameType>
+        <AliasStrength>Low quality a.k.a</AliasStrength>
+      </Name>
+      <Name>
+        <Name1>Abou</Name1>
+        <Name2>Yasser</Name2>
+        <Name6>Al-Jaziri</Name6>
+        <NameType>Alias</NameType>
+        <AliasStrength>Low quality a.k.a</AliasStrength>
+      </Name>
+      <Name>
+        <Name1>Abu</Name1>
+        <Name2>Bakr</Name2>
+        <Name6>al-Jaziri</Name6>
+        <NameType>Alias</NameType>
+        <AliasStrength>Low quality a.k.a</AliasStrength>
+      </Name>
+      <Name>
+        <Name1>Boubakeur</Name1>
+        <Name6>Boulghit</Name6>
+        <NameType>Alias</NameType>
+        <AliasStrength>Good quality a.k.a</AliasStrength>
+      </Name>
+      <Name>
+        <Name1>Abou</Name1>
+        <Name2>Yasser</Name2>
+        <Name6>El Djazairi</Name6>
+        <NameType>Alias</NameType>
+        <AliasStrength>Low quality a.k.a</AliasStrength>
+      </Name>
+    </Names>
+    <RegimeName>Isil (Da'esh) and Al-Qaeda (United Nations Sanctions) (EU Exit) Regulations 2019</RegimeName>
+    <IndividualEntityShip>Individual</IndividualEntityShip>
+    <DesignationSource>UN</DesignationSource>
+    <SanctionsImposed>Asset freeze|Arms embargo|Travel Ban</SanctionsImposed>
+    <SanctionsImposedIndicators>
+      <AssetFreeze>true</AssetFreeze>
+      <ArmsEmbargo>true</ArmsEmbargo>
+      <TargetedArmsEmbargo>false</TargetedArmsEmbargo>
+      <CharteringOfShips>false</CharteringOfShips>
+      <ClosureOfRepresentativeOffices>false</ClosureOfRepresentativeOffices>
+      <CrewServicingOfShipsAndAircraft>false</CrewServicingOfShipsAndAircraft>
+      <Deflag>false</Deflag>
+      <PreventionOfBusinessArrangements>false</PreventionOfBusinessArrangements>
+      <ProhibitionOfPortEntry>false</ProhibitionOfPortEntry>
+      <TravelBan>true</TravelBan>
+      <PreventionOfCharteringOfShips>false</PreventionOfCharteringOfShips>
+      <PreventionOfCharteringOfShipsAndAircraft>false</PreventionOfCharteringOfShipsAndAircraft>
+      <TechnicalAssistanceRelatedToAircraft>false</TechnicalAssistanceRelatedToAircraft>
+    </SanctionsImposedIndicators>
+    <OtherInformation>Finance chief of the Afghan Support Committee (ASC) (QDe.069). Al-Qaida (QDe.004) facilitator and communication expert. Believed to be in Algeria as at Apr. 2010. Son of Mohamed and Fatma Aribi. Review pursuant to Security Council resolution 1822 (2008) was concluded on 21 Jun. 2010. Review pursuant to Security Council resolution 2253 (2015) was concluded on 21 Feb. 2019. INTERPOL-UN Security Council Special Notice web link: https://www.interpol.int/en/notice/search/un/6104674</OtherInformation>
+    <UKStatementofReasons>
+    </UKStatementofReasons>
+    <IndividualDetails>
+      <Individual>
+        <DOBs>
+          <DOB>13/02/1970</DOB>
+        </DOBs>
+        <Nationalities>
+          <Nationality>Palestinian</Nationality>
+          <Nationality>Algeria</Nationality>
+        </Nationalities>
+        <Genders>
+          <Gender>Male</Gender>
+        </Genders>
+        <BirthDetails>
+          <Location>
+            <TownOfBirth>Rouiba, Algiers</TownOfBirth>
+            <CountryOfBirth>Algeria</CountryOfBirth>
+          </Location>
+        </BirthDetails>
+      </Individual>
+    </IndividualDetails>
+  </Designation>
+  <Designation>
+    <LastUpdated>17/02/2022</LastUpdated>
+    <DateDesignated>03/11/2003</DateDesignated>
+    <UniqueID>AQD0159</UniqueID>
+    <OFSIGroupID>7863</OFSIGroupID>
+    <UNReferenceNumber>QDi.135</UNReferenceNumber>
+    <Names>
+      <Name>
+        <Name1>DAWOOD</Name1>
+        <Name2>IBRAHIM</Name2>
+        <Name6>KASKAR</Name6>
+        <NameType>Primary name</NameType>
+      </Name>
+      <Name>
+        <Name1>Ismail</Name1>
+        <Name6>Abdul</Name6>
+        <NameType>Alias</NameType>
+        <AliasStrength>Low quality a.k.a</AliasStrength>
+      </Name>
+      <Name>
+        <Name1>Ibrahim</Name1>
+        <Name2>Shaikh</Name2>
+        <Name3>Mohd</Name3>
+        <Name6>Anis</Name6>
+        <NameType>Alias</NameType>
+        <AliasStrength>Low quality a.k.a</AliasStrength>
+      </Name>
+      <Name>
+        <Name1>Abdul</Name1>
+        <Name2>Hamid</Name2>
+        <Name3>Abdul</Name3>
+        <Name6>Aziz</Name6>
+        <NameType>Alias</NameType>
+        <AliasStrength>Good quality a.k.a</AliasStrength>
+      </Name>
+      <Name>
+        <Name1>Bada</Name1>
+        <Name6>Bhai</Name6>
+        <NameType>Alias</NameType>
+        <AliasStrength>Low quality a.k.a</AliasStrength>
+      </Name>
+      <Name>
+        <Name1>Dawood</Name1>
+        <Name6>Bhai</Name6>
+        <NameType>Alias</NameType>
+        <AliasStrength>Good quality a.k.a</AliasStrength>
+      </Name>
+      <Name>
+        <Name1>Iqbal</Name1>
+        <Name6>Bhai</Name6>
+        <NameType>Alias</NameType>
+        <AliasStrength>Low quality a.k.a</AliasStrength>
+      </Name>
+      <Name>
+        <Name1>Ebrahim</Name1>
+        <Name6>Dawood</Name6>
+        <NameType>Alias</NameType>
+        <AliasStrength>Good quality a.k.a</AliasStrength>
+      </Name>
+      <Name>
+        <Name1>Aziz</Name1>
+        <Name6>Dilip</Name6>
+        <NameType>Alias</NameType>
+        <AliasStrength>Good quality a.k.a</AliasStrength>
+      </Name>
+      <Name>
+        <Name6>Farooqi</Name6>
+        <NameType>Alias</NameType>
+        <AliasStrength>Low quality a.k.a</AliasStrength>
+      </Name>
+      <Name>
+        <Name1>Kaskar</Name1>
+        <Name2>Dawood</Name2>
+        <Name6>Hasan</Name6>
+        <NameType>Alias</NameType>
+        <AliasStrength>Good quality a.k.a</AliasStrength>
+      </Name>
+      <Name>
+        <Name1>Dawood</Name1>
+        <Name6>Hassan</Name6>
+        <NameType>Alias</NameType>
+        <AliasStrength>Good quality a.k.a</AliasStrength>
+      </Name>
+      <Name>
+        <Name6>Hizrat</Name6>
+        <NameType>Alias</NameType>
+        <AliasStrength>Low quality a.k.a</AliasStrength>
+      </Name>
+      <Name>
+        <Name1>Anis</Name1>
+        <Name6>Ibrahim</Name6>
+        <NameType>Alias</NameType>
+        <AliasStrength>Good quality a.k.a</AliasStrength>
+      </Name>
+      <Name>
+        <Name1>Dowood</Name1>
+        <Name2>Hassan</Name2>
+        <Name3>Shaikh</Name3>
+        <Name6>Ibrahim</Name6>
+        <NameType>Alias</NameType>
+        <AliasStrength>Good quality a.k.a</AliasStrength>
+      </Name>
+      <Name>
+        <Name1>Daud</Name1>
+        <Name2>Hasan</Name2>
+        <Name3>Shaikh</Name3>
+        <Name4>Ibrahim</Name4>
+        <Name6>Kaskar</Name6>
+        <NameType>Alias</NameType>
+        <AliasStrength>Good quality a.k.a</AliasStrength>
+      </Name>
+      <Name>
+        <Name1>Daud</Name1>
+        <Name2>Ibrahim</Name2>
+        <Name3>Memon</Name3>
+        <Name6>Kaskar</Name6>
+        <NameType>Alias</NameType>
+        <AliasStrength>Good quality a.k.a</AliasStrength>
+      </Name>
+      <Name>
+        <Name1>Dawood</Name1>
+        <Name2>Hasan</Name2>
+        <Name3>Ibrahim</Name3>
+        <Name6>Kaskar</Name6>
+        <NameType>Alias</NameType>
+        <AliasStrength>Good quality a.k.a</AliasStrength>
+      </Name>
+      <Name>
+        <Name1>Dawood</Name1>
+        <Name2>Ibrahim</Name2>
+        <Name6>Memon</Name6>
+        <NameType>Alias</NameType>
+        <AliasStrength>Good quality a.k.a</AliasStrength>
+      </Name>
+      <Name>
+        <Name6>Mucchad</Name6>
+        <NameType>Alias</NameType>
+        <AliasStrength>Low quality a.k.a</AliasStrength>
+      </Name>
+      <Name>
+        <Name1>Mohd</Name1>
+        <Name2>Ismail</Name2>
+        <Name3>Abdul</Name3>
+        <Name6>Rehman</Name6>
+        <NameType>Alias</NameType>
+        <AliasStrength>Good quality a.k.a</AliasStrength>
+      </Name>
+      <Name>
+        <Name1>Dawood</Name1>
+        <Name6>Sabri</Name6>
+        <NameType>Alias</NameType>
+        <AliasStrength>Good quality a.k.a</AliasStrength>
+      </Name>
+      <Name>
+        <Name6>Sahab</Name6>
+        <NameType>Alias</NameType>
+        <AliasStrength>Low quality a.k.a</AliasStrength>
+      </Name>
+      <Name>
+        <Name1>Bada</Name1>
+        <Name6>Seth</Name6>
+        <NameType>Alias</NameType>
+        <AliasStrength>Low quality a.k.a</AliasStrength>
+      </Name>
+    </Names>
+    <Titles>
+      <Title>Sheikh</Title>
+      <Title>Shaikh</Title>
+      <Title>Haji</Title>
+    </Titles>
+    <RegimeName>Isil (Da'esh) and Al-Qaeda (United Nations Sanctions) (EU Exit) Regulations 2019</RegimeName>
+    <IndividualEntityShip>Individual</IndividualEntityShip>
+    <DesignationSource>UN</DesignationSource>
+    <SanctionsImposed>Asset freeze|Arms embargo|Travel Ban</SanctionsImposed>
+    <SanctionsImposedIndicators>
+      <AssetFreeze>true</AssetFreeze>
+      <ArmsEmbargo>true</ArmsEmbargo>
+      <TargetedArmsEmbargo>false</TargetedArmsEmbargo>
+      <CharteringOfShips>false</CharteringOfShips>
+      <ClosureOfRepresentativeOffices>false</ClosureOfRepresentativeOffices>
+      <CrewServicingOfShipsAndAircraft>false</CrewServicingOfShipsAndAircraft>
+      <Deflag>false</Deflag>
+      <PreventionOfBusinessArrangements>false</PreventionOfBusinessArrangements>
+      <ProhibitionOfPortEntry>false</ProhibitionOfPortEntry>
+      <TravelBan>true</TravelBan>
+      <PreventionOfCharteringOfShips>false</PreventionOfCharteringOfShips>
+      <PreventionOfCharteringOfShipsAndAircraft>false</PreventionOfCharteringOfShipsAndAircraft>
+      <TechnicalAssistanceRelatedToAircraft>false</TechnicalAssistanceRelatedToAircraft>
+    </SanctionsImposedIndicators>
+    <OtherInformation>Father’s name is Sheikh Ibrahim Ali Kaskar, mother’s name is Amina Bi, wife’s name is Mehjabeen Shaikh. International arrest warrant issued by the Government of India. Review pursuant to Security Council resolution 1822 (2008) was concluded on 20 May 2010. INTERPOL-UN Security Council Special Notice web link: https://www.interpol.int/en/notice/search/un/4520465</OtherInformation>
+    <UKStatementofReasons>
+    </UKStatementofReasons>
+    <Addresses>
+      <Address>
+        <AddressLine5>Noorabad</AddressLine5>
+        <AddressLine6>Karachi</AddressLine6>
+        <AddressCountry>Pakistan</AddressCountry>
+      </Address>
+      <Address>
+        <AddressLine1>House Nu 37</AddressLine1>
+        <AddressLine2>30th Street- defence</AddressLine2>
+        <AddressLine3>Housing Authority</AddressLine3>
+        <AddressLine6>Karachi</AddressLine6>
+        <AddressCountry>Pakistan</AddressCountry>
+      </Address>
+      <Address>
+        <AddressLine1>White House</AddressLine1>
+        <AddressLine2>Near Saudi Mosque,</AddressLine2>
+        <AddressLine3>Clifton</AddressLine3>
+        <AddressLine6>Karachi</AddressLine6>
+        <AddressCountry>Pakistan</AddressCountry>
+      </Address>
+    </Addresses>
+    <IndividualDetails>
+      <Individual>
+        <DOBs>
+          <DOB>26/12/1955</DOB>
+        </DOBs>
+        <PassportDetails>
+          <Passport>
+            <PassportNumber>H-123259</PassportNumber>
+            <PassportAdditionalInformation>issued in Rawalpindi in Jul. 2001</PassportAdditionalInformation>
+          </Passport>
+          <Passport>
+            <PassportNumber>G-869537</PassportNumber>
+            <PassportAdditionalInformation>issued in Rawalpindi</PassportAdditionalInformation>
+          </Passport>
+          <Passport>
+            <PassportNumber>KC-285901</PassportNumber>
+          </Passport>
+          <Passport>
+            <PassportNumber>C-267185</PassportNumber>
+            <PassportAdditionalInformation>(issued in Karachi in Jul.1996)</PassportAdditionalInformation>
+          </Passport>
+          <Passport>
+            <PassportNumber>C-267185 </PassportNumber>
+            <PassportAdditionalInformation>issued in Karachi in Jul.1996</PassportAdditionalInformation>
+          </Passport>
+          <Passport>
+            <PassportNumber>R841697</PassportNumber>
+            <PassportAdditionalInformation>India number R841697, issued on 26 Nov. 1981, issued in Bombay</PassportAdditionalInformation>
+          </Passport>
+          <Passport>
+            <PassportNumber>F823692</PassportNumber>
+            <PassportAdditionalInformation>India number F823692 , issued on 2 Sep. 1989 ((JEDDAH) issued by CGI in Jeddah)</PassportAdditionalInformation>
+          </Passport>
+          <Passport>
+            <PassportNumber>A501801</PassportNumber>
+            <PassportAdditionalInformation>India number A501801 , issued on 26 Jul. 1985, issued in BOMBAY</PassportAdditionalInformation>
+          </Passport>
+          <Passport>
+            <PassportNumber>K560098</PassportNumber>
+            <PassportAdditionalInformation>India number K560098, issued on 30 Jul. 1975, issued in BOMBAY</PassportAdditionalInformation>
+          </Passport>
+          <Passport>
+            <PassportNumber>V57865</PassportNumber>
+            <PassportAdditionalInformation>issued on 3 Oct. 1983, issued in BOMBAY</PassportAdditionalInformation>
+          </Passport>
+          <Passport>
+            <PassportNumber>P537849</PassportNumber>
+            <PassportAdditionalInformation>India number P537849 , issued on 30 Jul. 1979, issued in BOMBAY</PassportAdditionalInformation>
+          </Passport>
+          <Passport>
+            <PassportNumber>A717288</PassportNumber>
+            <PassportAdditionalInformation>A717288 , issued on 18 Aug. 1985, issued in Dubai (MISUSE)</PassportAdditionalInformation>
+          </Passport>
+          <Passport>
+            <PassportNumber>G866537</PassportNumber>
+            <PassportAdditionalInformation>Issued on 12 Aug. 1991, issued in Rawalpindi (MISUSE) </PassportAdditionalInformation>
+          </Passport>
+          <Passport>
+            <PassportNumber>A-333602</PassportNumber>
+            <PassportAdditionalInformation>India number A-333602, issued on 4 Jun. 1985, issued in Bombay, India (passport subsequently revoked by the Government of India)</PassportAdditionalInformation>
+          </Passport>
+          <Passport>
+            <PassportNumber>M110522</PassportNumber>
+            <PassportAdditionalInformation>India number M110522, issued on 13 Nov. 1978, issued in Bombay, India</PassportAdditionalInformation>
+          </Passport>
+        </PassportDetails>
+        <Nationalities>
+          <Nationality>India</Nationality>
+        </Nationalities>
+        <BirthDetails>
+          <Location>
+            <TownOfBirth>Kher, Ratnagiri, Maharashtra</TownOfBirth>
+            <CountryOfBirth>India</CountryOfBirth>
+          </Location>
+        </BirthDetails>
+      </Individual>
+    </IndividualDetails>
+  </Designation>
+  <Designation>
+    <LastUpdated>18/12/2021</LastUpdated>
+    <DateDesignated>04/06/2008</DateDesignated>
+    <UniqueID>AQD0161</UniqueID>
+    <OFSIGroupID>10662</OFSIGroupID>
+    <UNReferenceNumber>QDi.242</UNReferenceNumber>
+    <Names>
+      <Name>
+        <Name1>DINNO AMOR</Name1>
+        <Name2>ROSALEJOS</Name2>
+        <Name6>PAREJA</Name6>
+        <NameType>Primary name</NameType>
+      </Name>
+      <Name>
+        <Name6>Akmad</Name6>
+        <NameType>Alias</NameType>
+        <AliasStrength>Low quality a.k.a</AliasStrength>
+      </Name>
+      <Name>
+        <Name6>Mighty</Name6>
+        <NameType>Alias</NameType>
+        <AliasStrength>Low quality a.k.a</AliasStrength>
+      </Name>
+      <Name>
+        <Name6>Mohammad</Name6>
+        <NameType>Alias</NameType>
+        <AliasStrength>Low quality a.k.a</AliasStrength>
+      </Name>
+      <Name>
+        <Name1>Johnny</Name1>
+        <Name6>Pareja</Name6>
+        <NameType>Alias</NameType>
+        <AliasStrength>Good quality a.k.a</AliasStrength>
+      </Name>
+      <Name>
+        <Name1>Khalil</Name1>
+        <Name6>Pareja</Name6>
+        <NameType>Alias</NameType>
+        <AliasStrength>Good quality a.k.a</AliasStrength>
+      </Name>
+      <Name>
+        <Name6>Rash</Name6>
+        <NameType>Alias</NameType>
+        <AliasStrength>Low quality a.k.a</AliasStrength>
+      </Name>
+    </Names>
+    <RegimeName>Isil (Da'esh) and Al-Qaeda (United Nations Sanctions) (EU Exit) Regulations 2019</RegimeName>
+    <IndividualEntityShip>Individual</IndividualEntityShip>
+    <DesignationSource>UN</DesignationSource>
+    <SanctionsImposed>Asset freeze|Arms embargo|Travel Ban</SanctionsImposed>
+    <SanctionsImposedIndicators>
+      <AssetFreeze>true</AssetFreeze>
+      <ArmsEmbargo>true</ArmsEmbargo>
+      <TargetedArmsEmbargo>false</TargetedArmsEmbargo>
+      <CharteringOfShips>false</CharteringOfShips>
+      <ClosureOfRepresentativeOffices>false</ClosureOfRepresentativeOffices>
+      <CrewServicingOfShipsAndAircraft>false</CrewServicingOfShipsAndAircraft>
+      <Deflag>false</Deflag>
+      <PreventionOfBusinessArrangements>false</PreventionOfBusinessArrangements>
+      <ProhibitionOfPortEntry>false</ProhibitionOfPortEntry>
+      <TravelBan>true</TravelBan>
+      <PreventionOfCharteringOfShips>false</PreventionOfCharteringOfShips>
+      <PreventionOfCharteringOfShipsAndAircraft>false</PreventionOfCharteringOfShipsAndAircraft>
+      <TechnicalAssistanceRelatedToAircraft>false</TechnicalAssistanceRelatedToAircraft>
+    </SanctionsImposedIndicators>
+    <OtherInformation>Member of the Rajah Solaiman Movement (QDe.128). Father's name is Amorsolo Jarabata Pareja. Mother's name is Leonila Cambaya Rosalejos. Review pursuant to Security Council resolution 1822 (2008) was concluded on 13 May 2010. Review pursuant to Security Council resolution 2368 (2017) was concluded on 4 Dec. 2019. INTERPOL-UN Security Council Special Notice web link: https://www.interpol.int/en/How-we-work/Notices/View-UN-Notices-Individuals.</OtherInformation>
+    <UKStatementofReasons>
+    </UKStatementofReasons>
+    <Addresses>
+      <Address>
+        <AddressLine5>Atimonana</AddressLine5>
+        <AddressLine6>Quezon Province</AddressLine6>
+        <AddressCountry>Philippines</AddressCountry>
+      </Address>
+    </Addresses>
+    <IndividualDetails>
+      <Individual>
+        <DOBs>
+          <DOB>19/07/1981</DOB>
+        </DOBs>
+        <Nationalities>
+          <Nationality>Philippines</Nationality>
+        </Nationalities>
+        <BirthDetails>
+          <Location>
+            <TownOfBirth>Cebu City</TownOfBirth>
+            <CountryOfBirth>Philippines</CountryOfBirth>
+          </Location>
+        </BirthDetails>
+      </Individual>
+    </IndividualDetails>
+  </Designation>
+  <Designation>
+    <LastUpdated>18/12/2021</LastUpdated>
+    <DateDesignated>05/02/2013</DateDesignated>
+    <UniqueID>AQD0162</UniqueID>
+    <OFSIGroupID>12842</OFSIGroupID>
+    <UNReferenceNumber>QDi.313</UNReferenceNumber>
+    <Names>
+      <Name>
+        <Name1>DJAMEL</Name1>
+        <Name6>AKKACHA</Name6>
+        <NameType>Primary name</NameType>
+      </Name>
+      <Name>
+        <Name1>Yahia</Name1>
+        <Name2>Abou</Name2>
+        <Name6>EL HAMMAM</Name6>
+        <NameType>Alias</NameType>
+        <AliasStrength>Good quality a.k.a</AliasStrength>
+      </Name>
+      <Name>
+        <Name1>Yahia</Name1>
+        <Name2>Abou</Name2>
+        <Name6>ELHOUMMAM</Name6>
+        <NameType>Alias</NameType>
+        <AliasStrength>Good quality a.k.a</AliasStrength>
+      </Name>
+    </Names>
+    <NonLatinNames>
+      <NonLatinName>
+        <NameNonLatinScript>جمال عكاشة</NameNonLatinScript>
+      </NonLatinName>
+    </NonLatinNames>
+    <RegimeName>Isil (Da'esh) and Al-Qaeda (United Nations Sanctions) (EU Exit) Regulations 2019</RegimeName>
+    <IndividualEntityShip>Individual</IndividualEntityShip>
+    <DesignationSource>UN</DesignationSource>
+    <SanctionsImposed>Asset freeze|Arms embargo|Travel Ban</SanctionsImposed>
+    <SanctionsImposedIndicators>
+      <AssetFreeze>true</AssetFreeze>
+      <ArmsEmbargo>true</ArmsEmbargo>
+      <TargetedArmsEmbargo>false</TargetedArmsEmbargo>
+      <CharteringOfShips>false</CharteringOfShips>
+      <ClosureOfRepresentativeOffices>false</ClosureOfRepresentativeOffices>
+      <CrewServicingOfShipsAndAircraft>false</CrewServicingOfShipsAndAircraft>
+      <Deflag>false</Deflag>
+      <PreventionOfBusinessArrangements>false</PreventionOfBusinessArrangements>
+      <ProhibitionOfPortEntry>false</ProhibitionOfPortEntry>
+      <TravelBan>true</TravelBan>
+      <PreventionOfCharteringOfShips>false</PreventionOfCharteringOfShips>
+      <PreventionOfCharteringOfShipsAndAircraft>false</PreventionOfCharteringOfShipsAndAircraft>
+      <TechnicalAssistanceRelatedToAircraft>false</TechnicalAssistanceRelatedToAircraft>
+    </SanctionsImposedIndicators>
+    <OtherInformation>Father’s name is Slimane. Mother’s name is Akrouf Khadidja. Coordinator of groups associated with The Organisation of Al-Qaida in the Islamic Maghreb (QDe.014) in northern Mali. Review pursuant to Security Council resolution 2253 (2015) was concluded on 21 Feb. 2019. INTERPOL-UN Security Council Special Notice web link: https://www.interpol.int/en/notice/search/un/5224629</OtherInformation>
+    <UKStatementofReasons>
+    </UKStatementofReasons>
+    <Addresses>
+      <Address>
+        <AddressCountry>Mali</AddressCountry>
+      </Address>
+    </Addresses>
+    <IndividualDetails>
+      <Individual>
+        <DOBs>
+          <DOB>09/05/1978</DOB>
+        </DOBs>
+        <Nationalities>
+          <Nationality>Algeria</Nationality>
+        </Nationalities>
+        <BirthDetails>
+          <Location>
+            <TownOfBirth>Rouiba, Algiers</TownOfBirth>
+            <CountryOfBirth>Algeria</CountryOfBirth>
+          </Location>
+        </BirthDetails>
+      </Individual>
+    </IndividualDetails>
+  </Designation>
+  <Designation>
+    <LastUpdated>18/12/2021</LastUpdated>
+    <DateDesignated>16/01/2004</DateDesignated>
+    <UniqueID>AQD0163</UniqueID>
+    <OFSIGroupID>7997</OFSIGroupID>
+    <UNReferenceNumber>QDi.155</UNReferenceNumber>
+    <Names>
+      <Name>
+        <Name1>DJAMEL</Name1>
+        <Name6>LOUNICI</Name6>
+        <NameType>Primary name</NameType>
+      </Name>
+      <Name>
+        <Name1>Jamal</Name1>
+        <Name6>Lounici</Name6>
+        <NameType>Alias</NameType>
+        <AliasStrength>Good quality a.k.a</AliasStrength>
+      </Name>
+    </Names>
+    <NonLatinNames>
+      <NonLatinName>
+        <NameNonLatinScript>جمال لونيسي</NameNonLatinScript>
+      </NonLatinName>
+    </NonLatinNames>
+    <RegimeName>Isil (Da'esh) and Al-Qaeda (United Nations Sanctions) (EU Exit) Regulations 2019</RegimeName>
+    <IndividualEntityShip>Individual</IndividualEntityShip>
+    <DesignationSource>UN</DesignationSource>
+    <SanctionsImposed>Asset freeze|Arms embargo|Travel Ban</SanctionsImposed>
+    <SanctionsImposedIndicators>
+      <AssetFreeze>true</AssetFreeze>
+      <ArmsEmbargo>true</ArmsEmbargo>
+      <TargetedArmsEmbargo>false</TargetedArmsEmbargo>
+      <CharteringOfShips>false</CharteringOfShips>
+      <ClosureOfRepresentativeOffices>false</ClosureOfRepresentativeOffices>
+      <CrewServicingOfShipsAndAircraft>false</CrewServicingOfShipsAndAircraft>
+      <Deflag>false</Deflag>
+      <PreventionOfBusinessArrangements>false</PreventionOfBusinessArrangements>
+      <ProhibitionOfPortEntry>false</ProhibitionOfPortEntry>
+      <TravelBan>true</TravelBan>
+      <PreventionOfCharteringOfShips>false</PreventionOfCharteringOfShips>
+      <PreventionOfCharteringOfShipsAndAircraft>false</PreventionOfCharteringOfShipsAndAircraft>
+      <TechnicalAssistanceRelatedToAircraft>false</TechnicalAssistanceRelatedToAircraft>
+    </SanctionsImposedIndicators>
+    <OtherInformation>Father's name is Abdelkader. Mother's name is Djohra Birouch. Returned from France to Algeria where he resides since Sep. 2008. Review pursuant to Security Council resolution 1822 (2008) was concluded on 27 Jul. 2010. INTERPOL-UN Security Council Special Notice web link: https://www.interpol.int/en/notice/search/un/4525545</OtherInformation>
+    <UKStatementofReasons>
+    </UKStatementofReasons>
+    <Addresses>
+      <Address>
+        <AddressCountry>Algeria</AddressCountry>
+      </Address>
+    </Addresses>
+    <IndividualDetails>
+      <Individual>
+        <DOBs>
+          <DOB>01/02/1962</DOB>
+        </DOBs>
+        <Nationalities>
+          <Nationality>Algeria</Nationality>
+        </Nationalities>
+        <BirthDetails>
+          <Location>
+            <TownOfBirth>Algiers</TownOfBirth>
+            <CountryOfBirth>Algeria</CountryOfBirth>
+          </Location>
+        </BirthDetails>
+      </Individual>
+    </IndividualDetails>
+  </Designation>
+  <Designation>
+    <LastUpdated>18/02/2022</LastUpdated>
+    <DateDesignated>23/09/2003</DateDesignated>
+    <UniqueID>AQD0164</UniqueID>
+    <OFSIGroupID>7860</OFSIGroupID>
+    <UNReferenceNumber>QDi.129</UNReferenceNumber>
+    <Names>
+      <Name>
+        <Name1>DJAMEL</Name1>
+        <Name6>MOUSTFA</Name6>
+        <NameType>Primary name</NameType>
+      </Name>
+      <Name>
+        <Name1>Ali</Name1>
+        <Name6>Barkani</Name6>
+        <NameType>Alias</NameType>
+        <AliasStrength>Good quality a.k.a</AliasStrength>
+      </Name>
+      <Name>
+        <Name1>Kalad</Name1>
+        <Name6>Belkasam</Name6>
+        <NameType>Alias</NameType>
+        <AliasStrength>Good quality a.k.a</AliasStrength>
+      </Name>
+      <Name>
+        <Name1>Mostafa</Name1>
+        <Name6>Djamel</Name6>
+        <NameType>Alias</NameType>
+        <AliasStrength>Good quality a.k.a</AliasStrength>
+      </Name>
+      <Name>
+        <Name1>Mostefa</Name1>
+        <Name6>Djamel</Name6>
+        <NameType>Alias</NameType>
+        <AliasStrength>Good quality a.k.a</AliasStrength>
+      </Name>
+      <Name>
+        <Name1>Mustafa</Name1>
+        <Name6>Djamel</Name6>
+        <NameType>Alias</NameType>
+        <AliasStrength>Good quality a.k.a</AliasStrength>
+      </Name>
+      <Name>
+        <Name1>Balkasam</Name1>
+        <Name6>Kalad</Name6>
+        <NameType>Alias</NameType>
+        <AliasStrength>Good quality a.k.a</AliasStrength>
+      </Name>
+      <Name>
+        <Name1>Bekasam</Name1>
+        <Name6>Kalad</Name6>
+        <NameType>Alias</NameType>
+        <AliasStrength>Good quality a.k.a</AliasStrength>
+      </Name>
+      <Name>
+        <Name1>Belkasam</Name1>
+        <Name6>Kalad</Name6>
+        <NameType>Alias</NameType>
+        <AliasStrength>Good quality a.k.a</AliasStrength>
+      </Name>
+      <Name>
+        <Name1>Damel</Name1>
+        <Name6>Mostafa</Name6>
+        <NameType>Alias</NameType>
+        <AliasStrength>Good quality a.k.a</AliasStrength>
+      </Name>
+      <Name>
+        <Name1>Djamal</Name1>
+        <Name6>Mostafa</Name6>
+        <NameType>Alias</NameType>
+        <AliasStrength>Good quality a.k.a</AliasStrength>
+      </Name>
+      <Name>
+        <Name1>Djamel</Name1>
+        <Name6>Mostafa</Name6>
+        <NameType>Alias</NameType>
+        <AliasStrength>Good quality a.k.a</AliasStrength>
+      </Name>
+      <Name>
+        <Name1>Fjamel</Name1>
+        <Name6>Moustfa</Name6>
+        <NameType>Alias</NameType>
+        <AliasStrength>Good quality a.k.a</AliasStrength>
+      </Name>
+      <Name>
+        <Name6>Mustafa</Name6>
+        <NameType>Alias</NameType>
+        <AliasStrength>Low quality a.k.a</AliasStrength>
+      </Name>
+      <Name>
+        <Name1>Djamel</Name1>
+        <Name6>Mustafa</Name6>
+        <NameType>Alias</NameType>
+        <AliasStrength>Good quality a.k.a</AliasStrength>
+      </Name>
+    </Names>
+    <NonLatinNames>
+      <NonLatinName>
+        <NameNonLatinScript>جمال مصطفى</NameNonLatinScript>
+      </NonLatinName>
+    </NonLatinNames>
+    <RegimeName>Isil (Da'esh) and Al-Qaeda (United Nations Sanctions) (EU Exit) Regulations 2019</RegimeName>
+    <IndividualEntityShip>Individual</IndividualEntityShip>
+    <DesignationSource>UN</DesignationSource>
+    <SanctionsImposed>Asset freeze|Arms embargo|Travel Ban</SanctionsImposed>
+    <SanctionsImposedIndicators>
+      <AssetFreeze>true</AssetFreeze>
+      <ArmsEmbargo>true</ArmsEmbargo>
+      <TargetedArmsEmbargo>false</TargetedArmsEmbargo>
+      <CharteringOfShips>false</CharteringOfShips>
+      <ClosureOfRepresentativeOffices>false</ClosureOfRepresentativeOffices>
+      <CrewServicingOfShipsAndAircraft>false</CrewServicingOfShipsAndAircraft>
+      <Deflag>false</Deflag>
+      <PreventionOfBusinessArrangements>false</PreventionOfBusinessArrangements>
+      <ProhibitionOfPortEntry>false</ProhibitionOfPortEntry>
+      <TravelBan>true</TravelBan>
+      <PreventionOfCharteringOfShips>false</PreventionOfCharteringOfShips>
+      <PreventionOfCharteringOfShipsAndAircraft>false</PreventionOfCharteringOfShipsAndAircraft>
+      <TechnicalAssistanceRelatedToAircraft>false</TechnicalAssistanceRelatedToAircraft>
+    </SanctionsImposedIndicators>
+    <OtherInformation>Father's name is Djelalli Moustfa. Mother's name is Kadeja Mansore. Deported from Germany to Algeria in Sep. 2007. Review pursuant to Security Council resolution 1822 (2008) was concluded on 19 Oct. 2009. Review pursuant to Security Council resolution 2253 (2015) was concluded on 21 Feb. 2019. INTERPOL-UN Security Council Special Notice web link: https://www.interpol.int/en/notice/search/un/1424350</OtherInformation>
+    <UKStatementofReasons>
+    </UKStatementofReasons>
+    <Addresses>
+      <Address>
+        <AddressCountry>Algeria</AddressCountry>
+      </Address>
+    </Addresses>
+    <IndividualDetails>
+      <Individual>
+        <DOBs>
+          <DOB>31/12/1979</DOB>
+          <DOB>10/06/1982</DOB>
+          <DOB>28/09/1973</DOB>
+          <DOB>31/12/1979</DOB>
+          <DOB>31/12/1979</DOB>
+          <DOB>28/09/1973</DOB>
+          <DOB>31/12/1979</DOB>
+          <DOB>22/08/1973</DOB>
+          <DOB>26/09/1973</DOB>
+          <DOB>31/12/1979</DOB>
+          <DOB>26/08/1973</DOB>
+          <DOB>31/12/1979</DOB>
+        </DOBs>
+        <Nationalities>
+          <Nationality>Algeria</Nationality>
+        </Nationalities>
+        <NationalIdentifierDetails>
+          <NationalIdentifier>
+            <NationalIdentifierNumber>20645897</NationalIdentifierNumber>
+            <NationalIdentifierAdditionalInformation>Counterfeit Danish driving licence. Made out to Ali Barkani, DOB: 22/08/1973, Morocco.</NationalIdentifierAdditionalInformation>
+          </NationalIdentifier>
+          <NationalIdentifier>
+            <NationalIdentifierAdditionalInformation>Algerian birth certificate. Issued for Djamel Mostefa, born on 25 September 1973 in Mehdia, Tiaret province, Algeria.</NationalIdentifierAdditionalInformation>
+          </NationalIdentifier>
+        </NationalIdentifierDetails>
+        <BirthDetails>
+          <Location>
+            <CountryOfBirth>Morocco</CountryOfBirth>
+          </Location>
+          <Location>
+            <TownOfBirth>Tiaret</TownOfBirth>
+            <CountryOfBirth>Algeria</CountryOfBirth>
+          </Location>
+          <Location>
+            <TownOfBirth>Algiers</TownOfBirth>
+            <CountryOfBirth>Algeria</CountryOfBirth>
+          </Location>
+          <Location>
+            <TownOfBirth>Mahdia</TownOfBirth>
+            <CountryOfBirth>Algeria</CountryOfBirth>
+          </Location>
+          <Location>
+            <TownOfBirth>Mascara</TownOfBirth>
+            <CountryOfBirth>Algeria</CountryOfBirth>
+          </Location>
+          <Location>
+            <TownOfBirth>Maskara</TownOfBirth>
+            <CountryOfBirth>Algeria</CountryOfBirth>
+          </Location>
+          <Location>
+            <TownOfBirth>Mehdia, Tiaret Province</TownOfBirth>
+            <CountryOfBirth>Algeria</CountryOfBirth>
+          </Location>
+        </BirthDetails>
+      </Individual>
+    </IndividualDetails>
+  </Designation>
+  <Designation>
+    <LastUpdated>18/12/2021</LastUpdated>
+    <DateDesignated>01/02/2021</DateDesignated>
+    <UniqueID>ZIM0006</UniqueID>
+    <OFSIGroupID>14054</OFSIGroupID>
+    <Names>
+      <Name>
+        <Name1>Godwin</Name1>
+        <Name6>MATANGA</Name6>
+        <NameType>Primary name</NameType>
+      </Name>
+    </Names>
+    <RegimeName>The Zimbabwe (Sanctions) (EU Exit) Regulations 2019</RegimeName>
+    <IndividualEntityShip>Individual</IndividualEntityShip>
+    <DesignationSource>UK</DesignationSource>
+    <SanctionsImposed>Asset freeze|Travel Ban</SanctionsImposed>
+    <SanctionsImposedIndicators>
+      <AssetFreeze>true</AssetFreeze>
+      <ArmsEmbargo>false</ArmsEmbargo>
+      <TargetedArmsEmbargo>false</TargetedArmsEmbargo>
+      <CharteringOfShips>false</CharteringOfShips>
+      <ClosureOfRepresentativeOffices>false</ClosureOfRepresentativeOffices>
+      <CrewServicingOfShipsAndAircraft>false</CrewServicingOfShipsAndAircraft>
+      <Deflag>false</Deflag>
+      <PreventionOfBusinessArrangements>false</PreventionOfBusinessArrangements>
+      <ProhibitionOfPortEntry>false</ProhibitionOfPortEntry>
+      <TravelBan>true</TravelBan>
+      <PreventionOfCharteringOfShips>false</PreventionOfCharteringOfShips>
+      <PreventionOfCharteringOfShipsAndAircraft>false</PreventionOfCharteringOfShipsAndAircraft>
+      <TechnicalAssistanceRelatedToAircraft>false</TechnicalAssistanceRelatedToAircraft>
+    </SanctionsImposedIndicators>
+    <UKStatementofReasons>
+     There are reasonable grounds to suspect that Godwin Matanga bears responsibility for serious human rights violations committed by the police and military during the crackdown on post-election protests in August 2018, which resulted in six civilian deaths, by virtue of his position as Commissioner General of the Zimbabwe Republic Police Force based in Harare at the relevant time. Those actions undermined the rule of law in Zimbabwe.
+    </UKStatementofReasons>
+    <Addresses>
+      <Address>
+        <AddressLine6>Harare</AddressLine6>
+        <AddressCountry>Zimbabwe</AddressCountry>
+      </Address>
+    </Addresses>
+    <IndividualDetails>
+      <Individual>
+        <DOBs>
+          <DOB>05/02/1962</DOB>
+        </DOBs>
+        <PassportDetails>
+          <Passport>
+            <PassportNumber>ZL042663</PassportNumber>
+          </Passport>
+        </PassportDetails>
+        <Nationalities>
+          <Nationality>Zimbabwe</Nationality>
+        </Nationalities>
+        <Positions>
+          <Position>Commissioner General of the Zimbabwe Republic Police</Position>
+        </Positions>
+        <Genders>
+          <Gender>Male</Gender>
+        </Genders>
+        <BirthDetails>
+          <Location>
+            <TownOfBirth>Chipinge</TownOfBirth>
+            <CountryOfBirth>Zimbabwe</CountryOfBirth>
+          </Location>
+        </BirthDetails>
+      </Individual>
+    </IndividualDetails>
+  </Designation>
+  <Designation>
+    <LastUpdated>18/12/2021</LastUpdated>
+    <DateDesignated>01/02/2021</DateDesignated>
+    <UniqueID>ZIM0007</UniqueID>
+    <OFSIGroupID>14055</OFSIGroupID>
+    <Names>
+      <Name>
+        <Name1>Isaac</Name1>
+        <Name6>MOYO</Name6>
+        <NameType>Primary name</NameType>
+      </Name>
+    </Names>
+    <RegimeName>The Zimbabwe (Sanctions) (EU Exit) Regulations 2019</RegimeName>
+    <IndividualEntityShip>Individual</IndividualEntityShip>
+    <DesignationSource>UK</DesignationSource>
+    <SanctionsImposed>Asset freeze|Travel Ban</SanctionsImposed>
+    <SanctionsImposedIndicators>
+      <AssetFreeze>true</AssetFreeze>
+      <ArmsEmbargo>false</ArmsEmbargo>
+      <TargetedArmsEmbargo>false</TargetedArmsEmbargo>
+      <CharteringOfShips>false</CharteringOfShips>
+      <ClosureOfRepresentativeOffices>false</ClosureOfRepresentativeOffices>
+      <CrewServicingOfShipsAndAircraft>false</CrewServicingOfShipsAndAircraft>
+      <Deflag>false</Deflag>
+      <PreventionOfBusinessArrangements>false</PreventionOfBusinessArrangements>
+      <ProhibitionOfPortEntry>false</ProhibitionOfPortEntry>
+      <TravelBan>true</TravelBan>
+      <PreventionOfCharteringOfShips>false</PreventionOfCharteringOfShips>
+      <PreventionOfCharteringOfShipsAndAircraft>false</PreventionOfCharteringOfShipsAndAircraft>
+      <TechnicalAssistanceRelatedToAircraft>false</TechnicalAssistanceRelatedToAircraft>
+    </SanctionsImposedIndicators>
+    <UKStatementofReasons>
+       There are reasonable grounds to suspect that Isaac Moyo, as Director General of the Central Intelligence Organisation (CIO), has been responsible for acts that constitute serious human rights violations in the context of the heavy crackdown on protests in January 2019 by state security forces. There are also reasonable grounds to suspect that in directing ECONET to suspend all internet services in January 2019, which order the High Court subsequently ruled as illegal, Isaac Moyo has also been involved in other actions that undermined the rule of law in Zimbabwe.</UKStatementofReasons>
+    <IndividualDetails>
+      <Individual>
+        <Nationalities>
+          <Nationality>Zimbabwe</Nationality>
+        </Nationalities>
+        <Positions>
+          <Position>Director General, Central Intelligence Organisation (CIO)</Position>
+        </Positions>
+        <Genders>
+          <Gender>Male</Gender>
+        </Genders>
+      </Individual>
+    </IndividualDetails>
+  </Designation>
+</Designations>
