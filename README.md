@@ -1,5 +1,5 @@
 ## XML Parser
 
-## Resource
+### Resource
 
  * [Covert XML to C# class](http://xmltocsharp.azurewebsites.net/) 
